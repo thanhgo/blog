@@ -1,9 +1,10 @@
 ---
-title: sự thật
+title: Sự thật
+categories: y khoa
+date: 2018-03-09
 author: drbinhthanh
-category: y khoa
-date: 2017-03-09
 ---
+
 Hôm qua tôi làm thủ thuật cho một bà, chắc con cớm, bả vừa nằm vừa nói, trong đời bả ko sợ thằng nào ngoại trừ bác sĩ. Cũng đúng thôi! Bởi vì sao bạn biết hok?
 
 Bởi vì bác sĩ luôn nói sự thật, mà sự thật thì biết diễn tả thế nào nhỉ. Nó ko tuân thủ theo luật thị trường, luật giang hồ hay bất kì cái luật nào bạn đang áp dụng. Bạn có thể đút lót để chạy trường cho con, để chạy án từ tử hình xuống còn chung thân hay để mua sự tiện nghi xa hoa; nhưng bạn không thể đút lót để từ ung thư thành hết ung thư được.
