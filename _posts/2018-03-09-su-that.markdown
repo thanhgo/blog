@@ -1,5 +1,6 @@
 ---
 title: Sự thật
+layout: post
 categories: y khoa
 date: 2018-03-09
 author: drbinhthanh

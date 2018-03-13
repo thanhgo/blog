@@ -1,5 +1,5 @@
 ---
-<<<<<<< HEAD
+
 author: drbinhthanh
 comments: true
 date: 2006-01-20 05:43:52+00:00
@@ -19,4 +19,4 @@ Tôi là một người _**độc tài**_, được nguỵ trang bởi ve
 
 
 Tôi lập blog này để tập viết và _tìm cho mình một cá tính riêng _để có thể trưởng thành. Từ trước tới nay, tôi chưa bao giờ có hứng thú thực sự với văn chương. Tôi viết hầu hết là để khỏi phải ghi nhớ những chi tiết rắc rối. Thành tựu về văn chương thì lại càng không, trừ cái giải quốc gia môn Tiếng Việt từ thời…_tiểu học_.
->>>>>>> eb132381673ab64f9e043856469cc0955c0e9464
+
