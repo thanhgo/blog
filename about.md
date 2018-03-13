@@ -19,22 +19,4 @@ Tôi là một người _**độc tài**_, được nguỵ trang bởi ve
 
 
 Tôi lập blog này để tập viết và _tìm cho mình một cá tính riêng _để có thể trưởng thành. Từ trước tới nay, tôi chưa bao giờ có hứng thú thực sự với văn chương. Tôi viết hầu hết là để khỏi phải ghi nhớ những chi tiết rắc rối. Thành tựu về văn chương thì lại càng không, trừ cái giải quốc gia môn Tiếng Việt từ thời…_tiểu học_.
-=======
-layout: page
-title: About
-permalink: /about/
----
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
 >>>>>>> eb132381673ab64f9e043856469cc0955c0e9464
