@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -40,3 +41,8 @@ _site
 # Bundler
 /.bundle
 /vendor/bundle
+=======
+_site
+.sass-cache
+.jekyll-metadata
+>>>>>>> eb132381673ab64f9e043856469cc0955c0e9464
