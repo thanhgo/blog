@@ -19,22 +19,13 @@ autumn
 
 **Em bảo anh đi đi**…
 
-Em bảo: anh đi đi!
-
-Sao anh không ở lại?
-
-Em bảo: đợi chờ chi!
-
-Sao anh xa em mãi?
-
-Lời em buông cứng cỏi,
-
-Lệ em trào mắt đen.
-
-Sao anh tin lời nói,
-
-Mà không nhìn mắt em?
-
-
+Em bảo: anh đi đi!  
+Sao anh không ở lại?  
+Em bảo: đợi chờ chi!  
+Sao anh xa em mãi?  
+Lời em buông cứng cỏi,  
+Lệ em trào mắt đen.  
+Sao anh tin lời nói,  
+Mà không nhìn mắt em?  
 
 **Huyền Anh** dịch
