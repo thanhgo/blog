@@ -26,63 +26,63 @@ Tôi xin trích ra một vài bài thơ, theo cảm nhận của mình (đã đ�
 ## **_Ba La_**
 
 
-Ngã tư Ba La hề ta về
-Cốc tình chạm cốc hề sương pha
-Ai say dốc ngược bầu trăng gió
-Nghiêng bóng tàn xiêu sóng rượu ngà
-`     Ngã tư hề ngã tư
-`     Ngã ba hề ngã ba
-`  Công danh mấy độ hề Ba La
-Đêm khuya xóm vắng bờ cát trắng
-Ấm nửa vầng trăng hề sông Trà
+Ngã tư Ba La hề ta về  
+Cốc tình chạm cốc hề sương pha  
+Ai say dốc ngược bầu trăng gió  
+Nghiêng bóng tàn xiêu sóng rượu ngà  
+.     Ngã tư hề ngã tư  
+.     Ngã ba hề ngã ba  
+.  Công danh mấy độ hề Ba La  
+Đêm khuya xóm vắng bờ cát trắng  
+Ấm nửa vầng trăng hề sông Trà  
 
-Ngã tư Ba La hề ta về
-Công danh mấy độ hề Ba La
-Ngửa mặt trên sông thấy mây trắng
-Úp mặt trên sông hề quê nhà
-Công danh mấy độ hề Ba La
+Ngã tư Ba La hề ta về  
+Công danh mấy độ hề Ba La  
+Ngửa mặt trên sông thấy mây trắng  
+Úp mặt trên sông hề quê nhà  
+Công danh mấy độ hề Ba La  
 
 
 ## **_Bình thường_**
 
 
-Bình thường
-Chú chó con
-nằm giữa đường
-và ngủ
-Xe hai bánh
-Xe bốn bánh
-Xe sáu bánh
-lăn qua
-Chú chó con bình yên
-Nắng không nói gì
-Gió không nói gì
-Hàng cây không nói gì
-Tôi dừng lại
-Không nói gì...
-...Chú chó con
-về góc vườn
-bình thường
-và ngủ
-Tôi nhìn
-và bước đi.
+Bình thường  
+Chú chó con  
+nằm giữa đường  
+và ngủ  
+Xe hai bánh  
+Xe bốn bánh  
+Xe sáu bánh  
+lăn qua  
+Chú chó con bình yên  
+Nắng không nói gì  
+Gió không nói gì  
+Hàng cây không nói gì  
+Tôi dừng lại  
+Không nói gì...  
+...Chú chó con  
+về góc vườn  
+bình thường  
+và ngủ  
+Tôi nhìn  
+và bước đi.  
 
 
 ## **_Xanh_**
 
 
-Nợ đi dọc nợ đi ngang
-Nợ con nợ cháu về quàng nợ cha
-Nợ nắng sớm nợ chiều tà
-Một trăm chuỗi nợ lia ta thành vòng
-Nợ người ươm nụ đầu xuân
-Nợ trăng rũ tóc môi gần lời xa
-Nửa đời gánh gió đi qua
-Thì thôi em ạ - em à - à em
-Toát mồ hôi lạnh giữa đêm
-Ngồi nghe nần nợ kêu tên họ mình
-Trời loanh quanh đất loanh quanh
-Ta loanh quanh ngút ngàn xanh cõi này
-Chiều nghiêng xanh một nét mây
-Chào em trang trọng tháng ngày
-`                                               đương xanh.
+Nợ đi dọc nợ đi ngang  
+Nợ con nợ cháu về quàng nợ cha  
+Nợ nắng sớm nợ chiều tà  
+Một trăm chuỗi nợ lia ta thành vòng  
+Nợ người ươm nụ đầu xuân  
+Nợ trăng rũ tóc môi gần lời xa  
+Nửa đời gánh gió đi qua  
+Thì thôi em ạ - em à - à em  
+Toát mồ hôi lạnh giữa đêm  
+Ngồi nghe nần nợ kêu tên họ mình  
+Trời loanh quanh đất loanh quanh  
+Ta loanh quanh ngút ngàn xanh cõi này  
+Chiều nghiêng xanh một nét mây  
+Chào em trang trọng tháng ngày  
+`                                               đương xanh.  
