@@ -2,7 +2,7 @@
 author: drbinhthanh
 comments: true
 date: 2006-01-20 05:43:52+00:00
-layout: page
+layout: about
 link: https://drbinhthanh.wordpress.com/about/
 slug: about
 title: Tôi là ai
@@ -17,4 +17,4 @@ Tôi là một người _**độc tài**_, được nguỵ trang bởi ve
 <blockquote>Tôi, một đứa con của tự do, một tín đồ của công nghệ, và là một nô lệ của tri thức.</blockquote>
 
 
-Tôi lập blog này để tập viết và _tìm cho mình một cá tính riêng _để có thể trưởng thành. Từ trước tới nay, tôi chưa bao giờ có hứng thú thực sự với văn chương. Tôi viết hầu hết là để khỏi phải ghi nhớ những chi tiết rắc rối. Thành tựu về văn chương thì lại càng không, trừ cái giải quốc gia môn Tiếng Việt từ thời…_tiểu học_.
+Tôi lập blog này để tập viết và _tìm cho mình một cá tính riêng _để có thể trưởng thành. Từ trước tới nay, tôi chưa bao giờ có hứng thú thực sự với văn chương. Tôi viết hầu hết là để khỏi phải ghi nhớ những chi tiết rắc rối. Thành tựu về văn chương thì lại càng không, trừ cái giải quốc gia môn Tiếng Việt từ thời… _tiểu học_.
