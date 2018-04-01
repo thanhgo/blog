@@ -2,7 +2,7 @@
 author: drbinhthanh
 comments: true
 date: 2006-01-20 05:43:52+00:00
-layout: about
+layout: draft
 link: https://drbinhthanh.wordpress.com/about/
 slug: about
 title: Tôi là ai
