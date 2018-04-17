@@ -1,8 +1,7 @@
 ---
-title:The trinity on medicine
-category: "y khoa"
+title: The trinity on medicine
+category: small 
 layout: post
-
 author: drbinhthanh
 ---
 
