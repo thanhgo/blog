@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-04-21 08:56:33+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/04/21/googling-la-gi/
-published: false
-slug: googling-la-gi
 title: Googling, là gì?
-wordpress_id: 154
+date: 2007-04-21 08:56:33 Z
+published: false
 categories:
 - Công nghệ
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/04/21/googling-la-gi/
+wordpress_id: 154
 ---
 
 Dẫn nhập: có bao giờ bạn gặp chuyện này chưa.

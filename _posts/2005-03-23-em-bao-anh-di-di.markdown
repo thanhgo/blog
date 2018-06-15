@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-03-23 11:46:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/03/23/em-bao-anh-di-di/
-slug: em-bao-anh-di-di
 title: Em bao anh di di
-wordpress_id: 9
+date: 2005-03-23 11:46:00 Z
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/03/23/em-bao-anh-di-di/
+wordpress_id: 9
 ---
 
 [![](http://photos1.blogger.com/img/81/4195/320/dnd_autumn.jpg)](http://photos1.blogger.com/img/81/4195/640/dnd_autumn.jpg)

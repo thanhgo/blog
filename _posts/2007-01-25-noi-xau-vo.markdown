@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-01-25 04:08:06+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/01/25/noi-xau-vo/
-published: false
-slug: noi-xau-vo
 title: Nói xấu vợ
-wordpress_id: 68
+date: 2007-01-25 04:08:06 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/01/25/noi-xau-vo/
+wordpress_id: 68
 ---
 
 Thấy cái này hay quá, post lên cho bà con nghe chơi. Thằng cha Hoài Linh quả là đại tài, thật đáng khâm phục, khâm phục!

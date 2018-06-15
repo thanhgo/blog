@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-07-16 02:01:59+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/07/16/mot-chuyen-buon/
-published: false
-slug: mot-chuyen-buon
 title: Một chuyện buồn
-wordpress_id: 182
+date: 2008-07-16 02:01:59 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/07/16/mot-chuyen-buon/
+wordpress_id: 182
 ---
 
 "Trừng trừng đôi mắt mơ màng

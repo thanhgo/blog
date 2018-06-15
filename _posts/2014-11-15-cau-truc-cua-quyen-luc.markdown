@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2014-11-15 15:13:47+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2014/11/15/cau-truc-cua-quyen-luc/
-slug: cau-truc-cua-quyen-luc
 title: Cấu trúc của quyền lực
-wordpress_id: 494
+date: 2014-11-15 15:13:47 Z
 categories:
 - Chính trị
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2014/11/15/cau-truc-cua-quyen-luc/
+wordpress_id: 494
 ---
 
 Quyền lực, hiểu theo một phương diện, cũng giống như một cấu trúc nâng đỡ, như là một tòa tháp, một công trình kiến trúc hay một tổ hợp cơ khí phức tạp. Nhìn bề ngoài, quyền lực thật huyền diệu. Nó mang lại cho một người hay một tổ chức nhiều khả năng phi thường khi có thể điều khiển được ý chí và hành động của một nhóm người khác. Tuy nhiên, bỏ qua những thứ hoa hòe rối mắt bề ngoài ấy, quyền lực của một cá nhân hay tổ chức thông thường chỉ có một hoặc hai trụ đỡ chính, thông thường sẽ là sức mạnh khởi thủy tạo nên quyền lực và phương cách xuyên suốt nhằm duy trì quyền lực đó. Các trụ đỡ này rất đa dạng: có thể là sức mạnh quân đội, kĩ nghệ mới, cấu trúc tổ chức, văn hóa công ty, bí quyết kinh doanh, cho đến kĩ năng cốt yếu, sự thân hữu hoặc tính cách đặc biệt đối với cá nhân.<!-- more -->

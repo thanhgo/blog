@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-06-14 18:21:39+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/06/15/nhung-ngay-cuoi-cung-o-truong-y/
-slug: nhung-ngay-cuoi-cung-o-truong-y
 title: Những ngày cuối cùng ở trường Y
-wordpress_id: 352
+date: 2010-06-14 18:21:39 Z
 categories:
 - Suy nghĩ
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/06/15/nhung-ngay-cuoi-cung-o-truong-y/
+wordpress_id: 352
 ---
 
 "Khi một cuộc hành trình kết thúc, một cái khác lại bắt đầu"

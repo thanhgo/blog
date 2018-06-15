@@ -1,8 +1,10 @@
 ---
-layout: page
 title: Migration
-description: >
-  This documents shows how to upgrade Hydejack from previous versions (v5) in a step-by-step manner.
+layout: page
+description: 'This documents shows how to upgrade Hydejack from previous versions
+  (v5) in a step-by-step manner.
+
+'
 ---
 
 Unfortunately, upgrading form v5 and earlier is not straightforward. A lot of patterns and names have changed,

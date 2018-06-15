@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-03-15 05:25:30+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/03/15/me-oi-hay-yeu-con-lan-nua/
-slug: me-oi-hay-yeu-con-lan-nua
 title: '"Mẹ ơi! Hãy yêu con lần nữa!"'
-wordpress_id: 327
+date: 2010-03-15 05:25:30 Z
 categories:
 - Suy nghĩ
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/03/15/me-oi-hay-yeu-con-lan-nua/
+wordpress_id: 327
 ---
 
 Buổi chiều, đi chơi với nhóm bạn từ hồi cấp 3, có thêm mấy em chíp chíp, anh em gợi ý hỏi tới hỏi lui: tại sao mày vừa to cao đẹp trai, tiêu chuẩn 3G có đủ cả, mà sao đến tuổi này rồi vẫn chưa có mối tình vắt vai?

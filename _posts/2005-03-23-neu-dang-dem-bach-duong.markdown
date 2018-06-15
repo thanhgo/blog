@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-03-23 11:12:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/03/23/neu-dang-dem-bach-duong/
-published: false
-slug: neu-dang-dem-bach-duong
 title: Neu dang dem bach duong
-wordpress_id: 8
+date: 2005-03-23 11:12:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/03/23/neu-dang-dem-bach-duong/
+wordpress_id: 8
 ---
 
 [![](http://photos1.blogger.com/img/81/4195/320/birch.jpg)](http://photos1.blogger.com/img/81/4195/640/birch.jpg)

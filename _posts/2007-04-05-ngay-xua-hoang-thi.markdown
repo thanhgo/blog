@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-04-05 09:43:03+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/04/05/ngay-xua-hoang-thi/
-published: false
-slug: ngay-xua-hoang-thi
 title: Ngày Xưa Hoàng Thị
-wordpress_id: 152
+date: 2007-04-05 09:43:03 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/04/05/ngay-xua-hoang-thi/
+wordpress_id: 152
 ---
 
 Sáng tác:  **Phạm Duy**.  

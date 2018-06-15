@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-01-20 02:38:38+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/01/20/9-su-kien-y-hoc-quan-trong-cua-nam-2006/
-published: false
-slug: 9-su-kien-y-hoc-quan-trong-cua-nam-2006
 title: 9 sự kiện y học quan trọng của năm 2006
-wordpress_id: 67
+date: 2007-01-20 02:38:38 Z
+published: false
 categories:
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/01/20/9-su-kien-y-hoc-quan-trong-cua-nam-2006/
+wordpress_id: 67
 ---
 
 **1. Gardasil: vắc xin đầu tiên cho bệnh ung thư cổ (cervical cancer).**

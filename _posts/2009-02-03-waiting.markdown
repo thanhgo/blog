@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-02-03 13:36:50+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/02/03/waiting/
-published: false
-slug: waiting
 title: Waiting...
-wordpress_id: 215
+date: 2009-02-03 13:36:50 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/02/03/waiting/
+wordpress_id: 215
 ---
 
 "...Ai ngày xưa rơi lệ

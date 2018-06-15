@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2015-10-18 01:18:51+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2015/10/18/ton-trong-thuc-tai/
-slug: ton-trong-thuc-tai
 title: Tôn Trọng Thực Tại
-wordpress_id: 496
+date: 2015-10-18 01:18:51 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2015/10/18/ton-trong-thuc-tai/
+wordpress_id: 496
 ---
 
 <blockquote>Khởi Thủy là Lời,

@@ -1,12 +1,11 @@
 ---
-
+title: Tôi là ai
+date: 2006-01-20 05:43:52 Z
 author: drbinhthanh
 comments: true
-date: 2006-01-20 05:43:52+00:00
 layout: page
 link: https://drbinhthanh.wordpress.com/about/
 slug: about
-title: Tôi là ai
 wordpress_id: 2
 ---
 

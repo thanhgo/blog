@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-03-18 07:20:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/03/18/thien-su-chet/
-published: false
-slug: thien-su-chet
 title: Thien su chet
-wordpress_id: 6
+date: 2005-03-18 07:20:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/03/18/thien-su-chet/
+wordpress_id: 6
 ---
 
 Thiên sứ chết

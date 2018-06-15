@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-03-07 09:21:28+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/03/07/thu-gui-nguoi-yeu/
-published: false
-slug: thu-gui-nguoi-yeu
 title: Thư gửi người yêu
-wordpress_id: 148
+date: 2007-03-07 09:21:28 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/03/07/thu-gui-nguoi-yeu/
+wordpress_id: 148
 ---
 
 "Em yêu! Hôm qua em hỏi anh rằng anh đối xử với em tốt chừng nào. Nhất thời anh chẳng nghĩ ra gì cả. Qua một đêm suy nghĩ, cuối cùng anh cũng nhớ ra mấy điểm anh đối xử tốt với em".   

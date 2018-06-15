@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-11-24 01:29:28+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/11/24/mua/
-published: false
-slug: mua
 title: Mưa
-wordpress_id: 174
+date: 2007-11-24 01:29:28 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/11/24/mua/
+wordpress_id: 174
 ---
 
 Văn phòng

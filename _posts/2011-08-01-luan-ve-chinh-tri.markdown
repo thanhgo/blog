@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-08-01 11:48:47+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/08/01/luan-ve-chinh-tri/
-published: false
-slug: luan-ve-chinh-tri
 title: Luận về chính trị
-wordpress_id: 428
+date: 2011-08-01 11:48:47 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/08/01/luan-ve-chinh-tri/
+wordpress_id: 428
 ---
 
 Chính trị xưa và nay đều được tiến hành bằng sức mạnh và mưu mẹo.

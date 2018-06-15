@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-04-21 09:10:42+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/04/21/google-mua-doulbleclick/
-published: false
-slug: google-mua-doulbleclick
 title: Vài suy nghĩ về thương vụ Google mua DoubleClick (bài viết của nguoitapviet.info)
-wordpress_id: 156
+date: 2007-04-21 09:10:42 Z
+published: false
 categories:
 - Công nghệ
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/04/21/google-mua-doulbleclick/
+wordpress_id: 156
 ---
 
 Google nổi tiếng với biểu tượng [đèn lava](http://en.wikipedia.org/wiki/Lava_lamps) ("Lava lamp") và phương châm "Đừng trở thành ác quỷ" ([Don't be evil](http://en.wikipedia.org/wiki/Don't_Be_Evil)). Nhưng giờ đây, trong mắt giới công nghệ nói chung, có vẻ như Google đang và sẽ trở thành một con "ác quỷ" thật sự và nó đủ lớn để "nuốt chửng" bất kỳ chướng ngại vật nào trên con đường thống trị thế giới (tất nhiên, sự thống trị đó là tốt hay xấu cho thế giới lại là một vấn đề hoàn toàn khác).

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-03-18 13:59:30+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/03/18/l%e1%bb%91i-thoat-nao-cho-chung-ta-thanh-th%e1%ba%adt-v%e1%bb%9bi-tinh-yeu/
+title: "[Lối thoát nào cho chúng ta] Thành Thật Với Tình Yêu"
+date: 2012-03-18 13:59:30 Z
 published: false
-slug: l%e1%bb%91i-thoat-nao-cho-chung-ta-thanh-th%e1%ba%adt-v%e1%bb%9bi-tinh-yeu
-title: '[Lối thoát nào cho chúng ta] Thành Thật Với Tình Yêu'
-wordpress_id: 441
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/03/18/l%e1%bb%91i-thoat-nao-cho-chung-ta-thanh-th%e1%ba%adt-v%e1%bb%9bi-tinh-yeu/
+wordpress_id: 441
 ---
 
 [audio http://k004.kiwi6.com/hotlink/e8x3m56503/cuoc_song_oi_ta_men_yeu_nguoi.mp3]

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-12-15 13:53:50+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/12/15/toi-can-them-mot-chut-anh-sang-cho-niem-tin/
-published: false
-slug: toi-can-them-mot-chut-anh-sang-cho-niem-tin
 title: Tôi cần thêm một chút ánh sáng cho niềm tin
-wordpress_id: 277
+date: 2009-12-15 13:53:50 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/12/15/toi-can-them-mot-chut-anh-sang-cho-niem-tin/
+wordpress_id: 277
 ---
 
 **Robert T. Kyosaki **đã gào thét trong cuốn "dạy con làm giàu" số 4: "làm thế nào để con bạn không trở nên vô dụng khi bước qua tuổi 30". Kyosaki đã có lí khi đưa ra sự thật trên, khi mà rất nhiều người ở tuổi trưởng thành không thể tiếp thu luồng thông tin mới mỗi ngày, và làm mọi việc theo quán tính như họ đã làm rất nhiều năm trước đó. Có một câu khác mà nhiều sách cũng hay đem ra hù doạ thế này: "95% dân số thế giới sống cuộc đời mình một cách thầm lặng".

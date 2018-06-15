@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-10-23 09:04:37+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/10/23/nguoi-con-giai-den-phong-em-chieu-thu/
-published: false
-slug: nguoi-con-giai-den-phong-em-chieu-thu
 title: Người con giai đến phòng em chiều thu
-wordpress_id: 377
+date: 2010-10-23 09:04:37 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/10/23/nguoi-con-giai-den-phong-em-chieu-thu/
+wordpress_id: 377
 ---
 
 Lưu Quang Vũ

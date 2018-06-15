@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-11-24 00:17:10+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/11/24/sinh-vien/
-published: false
-slug: sinh-vien
 title: Sinh viên
-wordpress_id: 171
+date: 2007-11-24 00:17:10 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/11/24/sinh-vien/
+wordpress_id: 171
 ---
 
 Một tân sinh viên chưa kịp nhập học, mắc bệnh hiểm nghèo qua đời. Xuống âm phủ, đến ngày luận công - tội: Diêm Vương: Ta biết ngươi chăm chỉ, học giỏi nhưng số ngươi không may chết sớm. Ta cho ngươi một thỉnh cầu. Bây giờ ngươi thỉnh cầu điều gì? Sinh viên: Dạ! Con vừa đậu đại học mà chưa biết "mùi" sinh viên là gì. Xin ngài cho con hưởng "mùi" sinh viên! Diêm Vương: Được! Được! Bay đâu, bưng ra đây một tô… mì tôm! Sinh viên: Hả...a...a! (bất tỉnh)

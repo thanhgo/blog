@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-06-19 23:33:10+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/06/20/doi-la-cai-dinh-tinh-la-cai-que-be-thuy-la-con-vit-que/
-published: false
-slug: doi-la-cai-dinh-tinh-la-cai-que-be-thuy-la-con-vit-que
 title: Đời là cái đinh, tình là cái que, bé Thúy là con vịt què...
-wordpress_id: 242
+date: 2009-06-19 23:33:10 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/06/20/doi-la-cai-dinh-tinh-la-cai-que-be-thuy-la-con-vit-que/
+wordpress_id: 242
 ---
 
 Phòng kí túc xá mấy hôm nay xôn xao, không buổi trưa nào tôi ngủ được

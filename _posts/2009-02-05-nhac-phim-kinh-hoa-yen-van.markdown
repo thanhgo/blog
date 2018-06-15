@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-02-05 12:42:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/02/05/nhac-phim-kinh-hoa-yen-van/
-published: false
-slug: nhac-phim-kinh-hoa-yen-van
 title: 发现 - Fa Xian (Phát Hiện) (nhạc phim Kinh Hoa Yên Vân - Moment In Perking)
-wordpress_id: 226
+date: 2009-02-05 12:42:00 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/02/05/nhac-phim-kinh-hoa-yen-van/
+wordpress_id: 226
 ---
 
 Về nhà, được em gái nằng nặc đòi tôi nghe bài này. Nghe hay, bỏ công ra tìm lyric, không ngờ nó hay thế, post lên cho pà kon nghe chơi. Tôi bắt đầu nghiện văn hóa Hoa ngữ mất rồi...

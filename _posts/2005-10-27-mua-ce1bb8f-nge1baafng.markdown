@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-10-27 03:18:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/10/27/mua-c%e1%bb%8f-ng%e1%ba%afng/
-published: false
-slug: mua-c%e1%bb%8f-ng%e1%ba%afng
 title: Mùa cỏ ngắng
-wordpress_id: 30
+date: 2005-10-27 03:18:00 Z
+published: false
 categories:
 - Sách hay
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/10/27/mua-c%e1%bb%8f-ng%e1%ba%afng/
+wordpress_id: 30
 ---
 
 **Mùa cỏ ngắng**

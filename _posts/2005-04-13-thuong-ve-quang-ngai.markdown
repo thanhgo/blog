@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-04-13 08:32:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/04/13/thuong-ve-quang-ngai/
-published: false
-slug: thuong-ve-quang-ngai
 title: Thuong ve Quang Ngai
-wordpress_id: 11
+date: 2005-04-13 08:32:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/04/13/thuong-ve-quang-ngai/
+wordpress_id: 11
 ---
 
 **Thương về Quảng Ngãi**

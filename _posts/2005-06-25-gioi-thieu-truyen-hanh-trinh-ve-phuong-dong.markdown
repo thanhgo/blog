@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-06-25 03:33:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/06/25/gioi-thieu-truyen-hanh-trinh-ve-phuong-dong/
-published: false
-slug: gioi-thieu-truyen-hanh-trinh-ve-phuong-dong
 title: Gioi thieu truyen "Hanh trinh ve phuong Dong"
-wordpress_id: 18
+date: 2005-06-25 03:33:00 Z
+published: false
 categories:
 - Sách hay
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/06/25/gioi-thieu-truyen-hanh-trinh-ve-phuong-dong/
+wordpress_id: 18
 ---
 
 bắt đầu từ hôm nay, tôi sẽ giới thiệu cho các bạn truyện dài "Hành trình về phương Đông".

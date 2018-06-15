@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-04-14 03:36:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/04/14/quan-hang-phu-thuy/
-published: false
-slug: quan-hang-phu-thuy
 title: Quan hang phu thuy
-wordpress_id: 14
+date: 2005-04-14 03:36:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/04/14/quan-hang-phu-thuy/
+wordpress_id: 14
 ---
 
 **K.BADJADJO PRADIP** (Ấn Độ)

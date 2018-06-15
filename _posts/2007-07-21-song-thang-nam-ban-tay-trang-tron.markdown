@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-07-21 09:28:31+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/07/21/song-thang-nam-ban-tay-trang-tron/
-published: false
-slug: song-thang-nam-ban-tay-trang-tron
 title: '"Sống tháng năm bàn tay trắng trơn"'
-wordpress_id: 163
+date: 2007-07-21 09:28:31 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/07/21/song-thang-nam-ban-tay-trang-tron/
+wordpress_id: 163
 ---
 
 Tôi sợ gì, tôi sợ gì, tôi mà sợ gì à! Tôi sợ cảm giác này:

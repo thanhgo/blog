@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-05-21 15:58:59+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/05/21/lam-gi-co-chuyen-doi-nhu-y/
-published: false
-slug: lam-gi-co-chuyen-doi-nhu-y
 title: Làm gì có chuyện đời như ý!
-wordpress_id: 346
+date: 2010-05-21 15:58:59 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/05/21/lam-gi-co-chuyen-doi-nhu-y/
+wordpress_id: 346
 ---
 
 # **Đời Như Ý

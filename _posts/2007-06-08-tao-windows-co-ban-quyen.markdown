@@ -1,19 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-06-08 04:17:20+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/06/08/tao-windows-co-ban-quyen/
-published: false
-slug: tao-windows-co-ban-quyen
 title: Tao Windows co ban quyen
-wordpress_id: 160
+date: 2007-06-08 04:17:20 Z
+published: false
 categories:
 - Công nghệ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/06/08/tao-windows-co-ban-quyen/
+wordpress_id: 160
 ---
-
-
-
 
 Vào Start, Run, go Regedit tim đen khoa HKEY_LOCAL_MACHINE\Software\Microsoft\WindowsNT\Current Version\WPAEvents
 

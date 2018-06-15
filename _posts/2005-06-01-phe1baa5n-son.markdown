@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-06-01 03:37:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/06/01/ph%e1%ba%a5n-son/
-published: false
-slug: ph%e1%ba%a5n-son
 title: Phấn son
-wordpress_id: 17
+date: 2005-06-01 03:37:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/06/01/ph%e1%ba%a5n-son/
+wordpress_id: 17
 ---
 
 Phấn Son

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-02-13 09:56:13+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/02/13/cyborg-hay-la-mot-loi-di-moi-cho-nganh-vi-phau/
-published: false
-slug: cyborg-hay-la-mot-loi-di-moi-cho-nganh-vi-phau
 title: Cyborg hay là một lối đi mới cho ngành vi phẫu
-wordpress_id: 390
+date: 2011-02-13 09:56:13 Z
+published: false
 categories:
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/02/13/cyborg-hay-la-mot-loi-di-moi-cho-nganh-vi-phau/
+wordpress_id: 390
 ---
 
 Vào những ngày đầu tiên đi làm, ngành chấn thương chỉnh hình đến với tôi như một định mệnh. Như một cậu bé lạc vào khu rừng xa lạ, tôi háo hức muốn tìm hiểu tất cả mọi thứ. Tuy có học qua đôi chút ngành chỉnh hình từ thời đại học, tôi cũng không nghĩ rằng khu rừng này lại rộng lớn đến như vậy. Và cũng như một xã hội thu nhỏ, khoa chấn thương chỉnh hình cũng có những tầng lớp bên trên và những con người ở vị trí thấp hơn.

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-02-14 00:40:41+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/02/14/tuong-lai-cua-web/
-published: false
-slug: tuong-lai-cua-web
 title: Tương lai của web
-wordpress_id: 69
+date: 2007-02-14 00:40:41 Z
+published: false
 categories:
 - Công nghệ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/02/14/tuong-lai-cua-web/
+wordpress_id: 69
 ---
 
 Net thế hệ kế tiếp sẽ không chỉ mang tính cá nhân và di động hơn mà còn là nơi tập hợp sức mạnh của nhiều người giúp việc tìm kiếm thông tin trở nên dễ dàng và chính xác hơn.

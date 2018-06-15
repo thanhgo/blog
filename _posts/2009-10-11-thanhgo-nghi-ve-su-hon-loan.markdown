@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-10-11 18:28:20+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/10/12/thanhgo-nghi-ve-su-hon-loan/
-published: false
-slug: thanhgo-nghi-ve-su-hon-loan
 title: thanhgo - nghĩ về sự hỗn loạn
-wordpress_id: 260
+date: 2009-10-11 18:28:20 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/10/12/thanhgo-nghi-ve-su-hon-loan/
+wordpress_id: 260
 ---
 
 **Các mệnh đề:**

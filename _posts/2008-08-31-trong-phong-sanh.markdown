@@ -1,20 +1,17 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-08-31 07:50:26+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/08/31/trong-phong-sanh/
-published: false
-slug: trong-phong-sanh
 title: Trong phòng sanh
-wordpress_id: 193
+date: 2008-08-31 07:50:26 Z
+published: false
 categories:
 - Suy nghĩ
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/08/31/trong-phong-sanh/
+wordpress_id: 193
 ---
 
-
-	
   * Chị có kinh lần đầu tiên khi nào?
 
 

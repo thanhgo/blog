@@ -1,19 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-08-16 11:26:23+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/08/16/lemonade-tycoon/
-published: false
-slug: lemonade-tycoon
 title: Lemonade Tycoon – có ai cần một ly nước chanh không?
-wordpress_id: 165
+date: 2007-08-16 11:26:23 Z
+published: false
 categories:
 - Công nghệ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/08/16/lemonade-tycoon/
+wordpress_id: 165
 ---
-
-
-
 
  ![Lemon3](http://static.zooomr.com/images/2962366_3492bd37cb.jpg?r=360)![Lemon3](http://static.zooomr.com/images/2962366_3492bd37cb.jpg?r=360)![Lemon3](http://static.zooomr.com/images/2962366_3492bd37cb.jpg?r=360)
 

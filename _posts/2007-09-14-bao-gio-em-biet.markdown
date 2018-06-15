@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-09-14 08:49:55+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/09/14/bao-gio-em-biet/
-published: false
-slug: bao-gio-em-biet
 title: Bao giờ em biết
-wordpress_id: 168
+date: 2007-09-14 08:49:55 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/09/14/bao-gio-em-biet/
+wordpress_id: 168
 ---
 
 **Thể hiện bởi: KIM**

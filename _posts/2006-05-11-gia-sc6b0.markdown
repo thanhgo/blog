@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2006-05-11 12:46:29+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2006/05/11/gia-s%c6%b0/
-published: false
-slug: gia-s%c6%b0
 title: Gia Sư
-wordpress_id: 52
+date: 2006-05-11 12:46:29 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2006/05/11/gia-s%c6%b0/
+wordpress_id: 52
 ---
 
 - Tên cậu là gì?  

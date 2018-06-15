@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-03-03 13:23:36+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/03/03/van-ch%c6%b0%c6%a1ng-va-ly-thuy%e1%ba%bft-m%e1%ba%a5t-trinh-nguy%e1%bb%85n-hoang-van/
-published: false
-slug: van-ch%c6%b0%c6%a1ng-va-ly-thuy%e1%ba%bft-m%e1%ba%a5t-trinh-nguy%e1%bb%85n-hoang-van
 title: Văn chương và lý thuyết mất trinh - Nguyễn Hoàng Văn
-wordpress_id: 435
+date: 2012-03-03 13:23:36 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/03/03/van-ch%c6%b0%c6%a1ng-va-ly-thuy%e1%ba%bft-m%e1%ba%a5t-trinh-nguy%e1%bb%85n-hoang-van/
+wordpress_id: 435
 ---
 
 Mấy câu thơ Bùi Giáng:

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-08-30 12:23:18+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/08/30/nganh-y-nhu-toi-da-thay/
-slug: nganh-y-nhu-toi-da-thay
 title: Ngành Y - như tôi đã thấy
-wordpress_id: 256
+date: 2009-08-30 12:23:18 Z
 categories:
 - Suy nghĩ
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/08/30/nganh-y-nhu-toi-da-thay/
+wordpress_id: 256
 ---
 
 Tôi học y khoa được 5 năm rồi, trong thời gian qua tôi đã đi qua tất cả các khoa trong lãnh vực này, học tất cả các môn liên quan (và có những môn chẳng liên quan tí nào). Còn 1 năm nữa là tốt nghiệp (năm cuối hứa hẹn đẫm máu), từ trước đến giờ mỗi khi nghe bạn bè đi du học hay làm được chuyện gì hay hay là tôi lại nổi máu ghen tị và luôn tự hỏi nếu ngày trước tôi không học Y mà chuyển sang học bách khoa thì bây giờ tôi sẽ ra sao nhỉ, đã có bao nhiêu cuộc phiêu lưu mà tôi đã bỏ lỡ (biết đâu đấy, bên kia dãy núi chẳng phải là một mỏ vàng mà chỉ là món bắp rang bơ thôi (trích từ phim Click (2006))). Tôi không viết nhiều về Y khoa bởi vì thực ra tôi chưa có một trăn trở nào về ngành Y cả. Đã đến lúc để tôi cảm ơn tất cả những điều đã trải qua và tận hưởng những gì mình đang có

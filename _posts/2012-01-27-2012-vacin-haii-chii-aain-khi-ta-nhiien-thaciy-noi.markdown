@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-01-27 13:24:08+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/01/27/2012-vacin-haii-chii-aain-khi-ta-nhiien-thaciy-noi/
+title: "[2012] Vận hội chỉ đến khi ta nhìn thấy nó"
+date: 2012-01-27 13:24:08 Z
 published: false
-slug: 2012-vacin-haii-chii-aain-khi-ta-nhiien-thaciy-noi
-title: '[2012] Vận hội chỉ đến khi ta nhìn thấy nó'
-wordpress_id: 431
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/01/27/2012-vacin-haii-chii-aain-khi-ta-nhiien-thaciy-noi/
+wordpress_id: 431
 ---
 
 Kinh dịch, triết lí sâu sắc dựa trên những nguyên lí hết sức đơn giản của vũ trụ. Trong cái sự biến hoá khôn cùng của đất trời, con người dần dà đã đóng góp một phần đáng kể vào sự chuyển động này.

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-05-15 16:13:28+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/05/15/chuyen-cu-ngam-lai/
-published: false
-slug: chuyen-cu-ngam-lai
 title: Chuyện cũ ngẫm lại
-wordpress_id: 459
+date: 2012-05-15 16:13:28 Z
+published: false
 categories:
 - Chính trị
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/05/15/chuyen-cu-ngam-lai/
+wordpress_id: 459
 ---
 
 Trong một lần đàm thoại giữa Lenine và Trotsky về cuộc khởi nghĩa, **Lenine** nói: _cuộc khởi nghĩa của chúng ta nhất định không thể chỉ dựa trên âm mưu của một nhóm người, chúng ta phải đặt nó lên cơ sở của một giai cấp tiền phong. Cuộc khởi nghĩa phải dựa trên đà cách mạng của toàn nhân dân. Cuộc khởi nghĩa phải nổ ra lúc cao trào cách mạng lên tột đỉnh.<!-- more -->_

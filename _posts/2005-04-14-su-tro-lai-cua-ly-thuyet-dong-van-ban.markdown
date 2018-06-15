@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-04-14 03:11:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/04/14/su-tro-lai-cua-ly-thuyet-dong-van-ban/
-published: false
-slug: su-tro-lai-cua-ly-thuyet-dong-van-ban
 title: Su tro lai cua ly thuyet "Dong van ban"
-wordpress_id: 12
+date: 2005-04-14 03:11:00 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/04/14/su-tro-lai-cua-ly-thuyet-dong-van-ban/
+wordpress_id: 12
 ---
 
 **Những ngày gần đây thật là những ngày lạ kì. Quá khứ dường như đã quay trở lại.**

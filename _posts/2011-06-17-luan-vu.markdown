@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-06-17 08:56:48+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/06/17/luan-vu/
-published: false
-slug: luan-vu
 title: Luân vũ
-wordpress_id: 418
+date: 2011-06-17 08:56:48 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/06/17/luan-vu/
+wordpress_id: 418
 ---
 
 Ngày xưa,

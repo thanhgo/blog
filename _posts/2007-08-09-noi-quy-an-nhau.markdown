@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-08-09 10:07:30+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/08/09/noi-quy-an-nhau/
-published: false
-slug: noi-quy-an-nhau
 title: Nội quy ăn nhậu
-wordpress_id: 164
+date: 2007-08-09 10:07:30 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/08/09/noi-quy-an-nhau/
+wordpress_id: 164
 ---
 
 TUYỆT MẬT

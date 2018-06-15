@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-05-21 03:50:53+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/05/21/dong-song-thuo-ay/
-published: false
-slug: dong-song-thuo-ay
 title: Dòng sông thuở ấy (Phạm Lợi)
-wordpress_id: 157
+date: 2007-05-21 03:50:53 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/05/21/dong-song-thuo-ay/
+wordpress_id: 157
 ---
 
 5 năm trước, khi một nửa thời gian trong ngày tôi ngồi cầm cây đàn guitar, tình cờ tôi nghe được trên tivi một bản độc tấu bài "tôi đưa em sang sông", hết sảy! Tôi biết mình thật còn quá non nớt trên tay đàn. Bây giờ, cũng thật tình cờ, tôi nghe lại được bàn đàn này. Nhưng lần này, tôi không có cây guitar ở bên và tôi cũng biết người đàn là Phạm Lợi, một đàn anh trong làng guitar Việt Nam. Vì vậy tôi muốn chia sẻ cùng các bạn album này. (Nếu bạn nào biết ở tp Hồ Chí Minh có nơi nào sinh hoạt guitar hay tiệm đĩa nhạc cổ điển nào, xin chia sẻ với tôi nhé!)

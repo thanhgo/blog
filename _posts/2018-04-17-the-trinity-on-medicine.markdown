@@ -1,6 +1,8 @@
 ---
 title: The trinity on medicine
-category: small 
+date: 2018-04-17 00:00:00 Z
+categories:
+- small
 layout: post
 author: drbinhthanh
 ---

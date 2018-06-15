@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-04-18 04:14:24+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/04/18/thanhgo-ban-ve-thien-tai/
-published: false
-slug: thanhgo-ban-ve-thien-tai
 title: thanhgo – bàn về thiên tài
-wordpress_id: 179
+date: 2008-04-18 04:14:24 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/04/18/thanhgo-ban-ve-thien-tai/
+wordpress_id: 179
 ---
 
 _(viết theo cảm hứng cuốn Thơ Dâng của Tagore)_

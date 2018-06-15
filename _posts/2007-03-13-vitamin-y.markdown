@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-03-13 04:22:25+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/03/13/vitamin-y/
-published: false
-slug: vitamin-y
 title: Vitamin Y
-wordpress_id: 151
+date: 2007-03-13 04:22:25 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/03/13/vitamin-y/
+wordpress_id: 151
 ---
 
 Hôm nay, tôi xin giới thiệu cho các bạn một album “tự tui”, tác giả của nó là **Dương Cao Cường**, một tay kì lạ sống ở tầng dưới. Trình độ guitar của hắn cũng khá, đủ để gọi tôi bằng sư phụ. Mới trước mùa noel vừa rồi, hắn thành lập câu lạc bộ guitar trong trường đại học y dược và mời tôi tham gia giao lưu với nhau. Nhìn hắn, tôi không nghĩ hắn đã yêu, mà lại yêu nhiều đến mức sinh ra album này.

@@ -1,19 +1,16 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-12-15 11:57:26+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/12/15/tai-san-cua-toi-tieu-san-cua-toi/
-published: false
-slug: tai-san-cua-toi-tieu-san-cua-toi
 title: 'Tài sản của tôi - tiêu sản của tôi: (tính đến ngày 15/12/2009)'
-wordpress_id: 266
+date: 2009-12-15 11:57:26 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/12/15/tai-san-cua-toi-tieu-san-cua-toi/
+wordpress_id: 266
 ---
 
-
-	
   1. Một căn nhà nhỏ gần sông Sài Gòn (chỉ để làm trại câu cá lúc rảnh)
 
 	

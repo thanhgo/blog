@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-10-20 04:07:08+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/10/20/dai-ban-doanh/
-slug: dai-ban-doanh
 title: Đại bản doanh
-wordpress_id: 169
+date: 2007-10-20 04:07:08 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/10/20/dai-ban-doanh/
+wordpress_id: 169
 ---
 
 [![DaiBanDoanh](http://static.zooomr.com/images/3565039_850122bbaa.jpg)](http://www.zooomr.com/photos/thanhgo/3565039/)

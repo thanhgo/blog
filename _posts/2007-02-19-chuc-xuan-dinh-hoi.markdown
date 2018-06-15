@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-02-19 06:50:36+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/02/19/chuc-xuan-dinh-hoi/
-published: false
-slug: chuc-xuan-dinh-hoi
 title: Chúc xuân Đinh Hợi
-wordpress_id: 70
+date: 2007-02-19 06:50:36 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/02/19/chuc-xuan-dinh-hoi/
+wordpress_id: 70
 ---
 
 Cung chúc tân niên

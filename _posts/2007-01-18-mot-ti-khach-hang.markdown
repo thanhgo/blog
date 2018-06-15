@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-01-18 08:01:25+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/01/18/mot-ti-khach-hang/
-slug: mot-ti-khach-hang
 title: Một Tỉ Khách Hàng
-wordpress_id: 66
+date: 2007-01-18 08:01:25 Z
 categories:
 - Sách hay
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/01/18/mot-ti-khach-hang/
+wordpress_id: 66
 ---
 
 Một Tỉ Khách Hàng

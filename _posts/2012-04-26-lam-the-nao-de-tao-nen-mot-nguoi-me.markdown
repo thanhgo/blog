@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-04-26 15:33:37+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/04/26/lam-the-nao-de-tao-nen-mot-nguoi-me/
-published: false
-slug: lam-the-nao-de-tao-nen-mot-nguoi-me
 title: Làm thế nào để tạo nên một người mẹ
-wordpress_id: 445
+date: 2012-04-26 15:33:37 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/04/26/lam-the-nao-de-tao-nen-mot-nguoi-me/
+wordpress_id: 445
 ---
 
 Tặng những ngày tháng Năm rực rỡ của tôi

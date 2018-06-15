@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-10-27 09:51:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/10/27/gi%e1%bb%9bi-thi%e1%bb%87u-sach-khong-tu%e1%bb%95i-tac-khong-th%e1%bb%9di-gian-c%e1%bb%a7a-deepak-chopra/
-published: false
-slug: gi%e1%bb%9bi-thi%e1%bb%87u-sach-khong-tu%e1%bb%95i-tac-khong-th%e1%bb%9di-gian-c%e1%bb%a7a-deepak-chopra
 title: Giới thiệu sách "Không tuổi tác, không thời gian" của Deepak Chopra
-wordpress_id: 31
+date: 2005-10-27 09:51:00 Z
+published: false
 categories:
 - Sách hay
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/10/27/gi%e1%bb%9bi-thi%e1%bb%87u-sach-khong-tu%e1%bb%95i-tac-khong-th%e1%bb%9di-gian-c%e1%bb%a7a-deepak-chopra/
+wordpress_id: 31
 ---
 
 _**Không tuổi tác, không thời gian**_

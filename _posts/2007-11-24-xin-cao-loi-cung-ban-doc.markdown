@@ -1,20 +1,16 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-11-24 01:13:21+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/11/24/xin-cao-loi-cung-ban-doc/
-published: false
-slug: xin-cao-loi-cung-ban-doc
 title: '"Xin cáo lỗi cùng bạn đọc!"'
-wordpress_id: 173
+date: 2007-11-24 01:13:21 Z
+published: false
 categories:
 - Sách hay
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/11/24/xin-cao-loi-cung-ban-doc/
+wordpress_id: 173
 ---
-
-
-
 
 <blockquote>
 

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-07-12 09:33:09+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/07/12/tieng-dan-moi-sau-bo-rao-da/
-published: false
-slug: tieng-dan-moi-sau-bo-rao-da
 title: Tiếng đàn môi sau bờ rào đá
-wordpress_id: 356
+date: 2010-07-12 09:33:09 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/07/12/tieng-dan-moi-sau-bo-rao-da/
+wordpress_id: 356
 ---
 
 [

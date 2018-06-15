@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-02-21 02:22:31+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/02/21/afb-hay-bk/
-published: false
-slug: afb-hay-bk
 title: AFB (+) hay Bk(+)
-wordpress_id: 231
+date: 2009-02-21 02:22:31 Z
+published: false
 categories:
 - Suy nghĩ
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/02/21/afb-hay-bk/
+wordpress_id: 231
 ---
 
 Nói thật với tôi nhé, bạn sợ bệnh nào nhất trên đời này? AIDS hả (nó nổi tiếng quá mà)? Cúm gia cầm chăng (tuy đến nay chẳng có mấy ai chết vì nó)? Hay đái tháo đường (bạn có muốn bị cưa chân không, ăn uống kiêng khem không)? Hay là tăng huyết áp (kẻ giết người thầm lặng).

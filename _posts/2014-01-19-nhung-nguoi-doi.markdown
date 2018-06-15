@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2014-01-19 14:20:23+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2014/01/19/nhung-nguoi-doi/
-published: false
-slug: nhung-nguoi-doi
 title: Những người đói
-wordpress_id: 478
+date: 2014-01-19 14:20:23 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2014/01/19/nhung-nguoi-doi/
+wordpress_id: 478
 ---
 
 Những ngày giáp tết, lại nghe được tin hơn [1 triệu người VN đang chờ cứu đói](http://vnexpress.net/tin-tuc/thoi-su/11-tinh-xin-cap-gao-cuu-doi-dip-tet-2938258.html). Phải chăng ta đang sống những ngày trong thế kỉ 21? Chẳng biết làm thế nào, tôi xin đăng lại đây bài viết của Phan An. Hãy đọc và suy ngẫm, thưa các bạn, cố gắng đừng khóc, hãy hành động!
