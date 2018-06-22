@@ -48,7 +48,7 @@ author:
   twitter:             ringotaylor06
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             Dr. Ringo © 2018.  All rights reserved.
+copyright:             Dr. Ringo © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -172,7 +172,6 @@ exclude:
   - package.json
   - package-lock.json
 include:
-  - LICENSE.md
 
 
 # Plugins and Plugin Configuration
