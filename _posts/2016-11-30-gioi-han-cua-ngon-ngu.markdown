@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2016-11-30 16:48:30+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2016/11/30/gioi-han-cua-ngon-ngu/
-slug: gioi-han-cua-ngon-ngu
 title: Giới hạn của ngôn ngữ
-wordpress_id: 614
+date: 2016-11-30 16:48:30 Z
 categories:
 - Thơ văn
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2016/11/30/gioi-han-cua-ngon-ngu/
+wordpress_id: 614
 ---
 
 Ngày xưa, tôi đã từng cố gắng tìm kiếm một phương pháp tư duy không phụ thuộc vào ngôn ngữ. Tôi đã cho rằng ngôn ngữ không đủ sức để mô tả hết các trạng thái. Mà thực vậy, vốn từ ít ỏi của các ngôn ngữ không thể nào mô tả được hết thế giới tự nhiên. Tư duy theo ngôn ngữ sẵn có sớm muộn gì cũng sẽ đi đến chỗ bế tắc. Một lựa chọn của tôi khi đó là tư duy dựa thẳng trên quan niệm và cảm xúc, tuy nhiên các lựa chọn này rất khó thực hiện cũng như khó tái hiện và không thể mô tả chính xác sự kiện.

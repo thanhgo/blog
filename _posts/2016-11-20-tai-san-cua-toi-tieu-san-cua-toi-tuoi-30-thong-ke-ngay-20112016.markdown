@@ -1,19 +1,16 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2016-11-20 11:43:19+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2016/11/20/tai-san-cua-toi-tieu-san-cua-toi-tuoi-30-thong-ke-ngay-20112016/
-published: false
-slug: tai-san-cua-toi-tieu-san-cua-toi-tuoi-30-thong-ke-ngay-20112016
 title: Tài sản của tôi, tiêu sản của tôi (tuổi 30, Thống kê ngày 20/11/2016)
-wordpress_id: 610
+date: 2016-11-20 11:43:19 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2016/11/20/tai-san-cua-toi-tieu-san-cua-toi-tuoi-30-thong-ke-ngay-20112016/
+wordpress_id: 610
 ---
 
-
- 	
   1. Một căn nhà nhỏ ở Bình Dương, đầy đủ tiện nghi cơ bản
 
  	

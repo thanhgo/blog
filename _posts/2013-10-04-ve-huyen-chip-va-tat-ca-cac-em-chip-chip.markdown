@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2013-10-04 12:47:10+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2013/10/04/ve-huyen-chip-va-tat-ca-cac-em-chip-chip/
-slug: ve-huyen-chip-va-tat-ca-cac-em-chip-chip
 title: Về Huyền Chip và tất cả các em chip chip
-wordpress_id: 475
+date: 2013-10-04 12:47:10 Z
 categories:
 - Chính trị
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2013/10/04/ve-huyen-chip-va-tat-ca-cac-em-chip-chip/
+wordpress_id: 475
 ---
 
 Lúc đầu cũng không định viết về Huyền Chip, nhưng bởi vì đã lỡ mua và lỡ đọc sách của em ấy rồi (cuốn tập 1, chỉ vì thấy bìa sách thiết kế ấn tượng, chứng tỏ tác giả có chú tâm biên tập tử tế vào cuốn sách của mình) và tôi thấy sự việc ngày càng nhuốm màu chính trị xã hội nên điều đó thúc giục tôi phải viết vài lời.

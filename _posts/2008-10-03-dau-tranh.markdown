@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-10-03 01:58:58+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/10/03/dau-tranh/
-published: false
-slug: dau-tranh
 title: Đấu tranh
-wordpress_id: 205
+date: 2008-10-03 01:58:58 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/10/03/dau-tranh/
+wordpress_id: 205
 ---
 
 "Thời gian như gió thoảng qua

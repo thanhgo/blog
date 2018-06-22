@@ -1,10 +1,9 @@
 ---
+title: Welcome
+date: '2018-03-31 07:00:00 +0700'
 author: drbinhthanh
 comments: true
-date: 2018-03-31
 layout: about
-published: true
-title: Welcome
 ---
 
 ![](/assets/img/banner.jpg)

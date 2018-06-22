@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-08-28 11:34:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/08/28/thu-%e1%ba%a5m-ap/
-published: false
-slug: thu-%e1%ba%a5m-ap
 title: Thu ấm áp
-wordpress_id: 253
+date: 2009-08-28 11:34:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/08/28/thu-%e1%ba%a5m-ap/
+wordpress_id: 253
 ---
 
 ## **Đợi**

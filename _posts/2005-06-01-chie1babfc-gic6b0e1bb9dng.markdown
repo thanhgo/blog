@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-06-01 03:34:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/06/01/chi%e1%ba%bfc-gi%c6%b0%e1%bb%9dng/
-published: false
-slug: chi%e1%ba%bfc-gi%c6%b0%e1%bb%9dng
 title: Chiếc giường
-wordpress_id: 16
+date: 2005-06-01 03:34:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/06/01/chi%e1%ba%bfc-gi%c6%b0%e1%bb%9dng/
+wordpress_id: 16
 ---
 
 Chiếc Giường

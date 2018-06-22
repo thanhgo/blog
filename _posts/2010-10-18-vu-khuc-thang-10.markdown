@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-10-18 13:40:39+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/10/18/vu-khuc-thang-10/
-slug: vu-khuc-thang-10
 title: Vũ khúc tháng 10
-wordpress_id: 372
+date: 2010-10-18 13:40:39 Z
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/10/18/vu-khuc-thang-10/
+wordpress_id: 372
 ---
 
 Cuộc đời như một khúc nhạc và con người có quyền lựa chọn mình có nên khiêu vũ với khúc nhạc đó hay là chỉ ngồi nghe. Tôi đã chọn khiêu vũ với giai điệu đó mất rồi!

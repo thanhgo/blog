@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-12-17 13:28:58+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/12/17/ba-me-viet-nam-anh-hung/
-published: false
-slug: ba-me-viet-nam-anh-hung
 title: Bà mẹ! Việt Nam anh hùng!
-wordpress_id: 282
+date: 2009-12-17 13:28:58 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/12/17/ba-me-viet-nam-anh-hung/
+wordpress_id: 282
 ---
 
 Việt Nam là một đất nước “ra ngõ gặp anh hùng”

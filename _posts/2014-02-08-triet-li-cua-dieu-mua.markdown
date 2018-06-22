@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2014-02-08 14:43:25+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2014/02/08/triet-li-cua-dieu-mua/
-slug: triet-li-cua-dieu-mua
 title: 'Triết lí của điệu múa '
-wordpress_id: 483
+date: 2014-02-08 14:43:25 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2014/02/08/triet-li-cua-dieu-mua/
+wordpress_id: 483
 ---
 
 ## **(hay là một minh chứng về sự không thể tách rời giữa tinh thần và thể xác)**

@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-05-16 06:31:24+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/05/16/%e2%80%9chay-noi-yeu-thoi-dun-noi-yeu-mai-mai%e2%80%9d/
+title: "“Hãy nói yêu thôi, đừng nói yêu mãi mãi!”"
+date: 2009-05-16 06:31:24 Z
 published: false
-slug: '%e2%80%9chay-noi-yeu-thoi-dun-noi-yeu-mai-mai%e2%80%9d'
-title: “Hãy nói yêu thôi, đừng nói yêu mãi mãi!”
-wordpress_id: 235
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/05/16/%e2%80%9chay-noi-yeu-thoi-dun-noi-yeu-mai-mai%e2%80%9d/
+wordpress_id: 235
 ---
 
 Sáng  nay, trong khi sắp xếp những chồng thư cũ, tôi tình cờ đọc lại một bài thơ ngắn  của Jacques Prévert mà cô bạn cũ đã nắn nót chép tặng trên một tờ thư có in hoa  rất đẹp. Bài thơ vỏn vẹn năm câu được cô đặt vắt qua hai trang giấy một cách đầy  ngụ ý.

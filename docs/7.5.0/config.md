@@ -1,8 +1,10 @@
 ---
-layout: page
 title: Config
-description: >
-  Once Jekyll is running, you can start with basic configuration by adding various entries to `_config.yml`.
+layout: page
+description: 'Once Jekyll is running, you can start with basic configuration by adding
+  various entries to `_config.yml`.
+
+'
 ---
 
 Once Jekyll is running, you can start with basic configuration by adding various entries to `_config.yml`.

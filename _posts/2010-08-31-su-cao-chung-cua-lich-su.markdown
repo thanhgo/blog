@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-08-31 11:25:10+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/08/31/su-cao-chung-cua-lich-su/
-published: false
-slug: su-cao-chung-cua-lich-su
 title: Sự cáo chung của lịch sử
-wordpress_id: 366
+date: 2010-08-31 11:25:10 Z
+published: false
 categories:
 - Sách hay
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/08/31/su-cao-chung-cua-lich-su/
+wordpress_id: 366
 ---
 
 Ý tưởng đầu tiên về lịch sử chỉ là một khái niệm tạm thời và có thể lỗi thời bắt đầu từ Hegel rồi đến Karl Marx. Tuy nhiên, người ta biết nhiều hơn về ý tưởng này qua bài báo của Francis Fukuyama trong năm 1989 (tham khảo tại [đây](http://www.wesjones.com/eoh.htm), hoặc bản tiếng Việt tại [đây](http://tnxm.net/t3250-?p=61529&viewfull=1)). Trong bài báo này, theo tôi nghĩ, Fukuyama có lẽ đã quá háo hức với một viễn cảnh của cuộc chiến tranh lạnh sắp sụp đổ và sự trỗi dậy tuyệt đối của phương Tây. Trong bài báo đó, Fukuyama lặp lại ý tưởng của Hegel cho rằng: tư tưởng tự do dân chủ đã được nảy nở từ cuộc cách mạng Pháp, và lịch sử cũng cáo chung từ đó, và rằng con người không thể đi xa hơn nữa về mặt ý thức (đúng vậy, nếu ai biết một ý tưởng nào tốt hơn tự do, hãy cho tôi biết với).

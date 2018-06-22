@@ -1,17 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-03-20 09:38:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/03/20/truyen-doc-60-giay/
-published: false
-slug: truyen-doc-60-giay
 title: Truyen doc 60 giay
-wordpress_id: 7
+date: 2005-03-20 09:38:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/03/20/truyen-doc-60-giay/
+wordpress_id: 7
 ---
-
 
 Truyện đọc 60 giây
 

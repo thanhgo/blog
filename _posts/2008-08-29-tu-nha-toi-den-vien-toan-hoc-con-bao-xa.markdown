@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-08-29 12:21:03+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/08/29/tu-nha-toi-den-vien-toan-hoc-con-bao-xa/
-published: false
-slug: tu-nha-toi-den-vien-toan-hoc-con-bao-xa
 title: Từ nhà tôi đến viện toán học còn bao xa hay là tôi đang ghen tị
-wordpress_id: 190
+date: 2008-08-29 12:21:03 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/08/29/tu-nha-toi-den-vien-toan-hoc-con-bao-xa/
+wordpress_id: 190
 ---
 
 Mấy hôm nay, về quê tĩnh dưỡng, đi thăm vài người bạn cũ, bạn bè giờ cũng sắp tốt nghiệp cả rồi, chúng nó đang nhốn nháo tìm việc cả lên. (Ôi, cái chuyện cơm áo gạo tiền, lúc nào cũng giống nhau, chỉ khác bây giờ nó được khoác lên cái áo năng động, thăng tiến, thành đạt mà thôi)

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2006-12-06 03:47:14+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2006/12/06/b%e1%ba%a1n-co-th%e1%bb%83-h%e1%bb%8dc-d%e1%bb%83-nghi-sang-t%e1%ba%a1o/
-published: false
-slug: b%e1%ba%a1n-co-th%e1%bb%83-h%e1%bb%8dc-d%e1%bb%83-nghi-sang-t%e1%ba%a1o
 title: Bạn có thể học để nghĩ sáng tạo
-wordpress_id: 55
+date: 2006-12-06 03:47:14 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2006/12/06/b%e1%ba%a1n-co-th%e1%bb%83-h%e1%bb%8dc-d%e1%bb%83-nghi-sang-t%e1%ba%a1o/
+wordpress_id: 55
 ---
 
 Ai trong chúng ta cũng có sự sáng tạo, và tin tốt là nếu bạn thấy mình "chưa" (chứ không phải là "không") sáng tạo, bạn có thể học. Công việc càng khó thì não bạn hoạt động càng tích cực. Theo nghiên cứu thì đến thiên tài cũng mới sử dụng có 15% hiệu suất não của mình! Cho nên, học nghĩ sáng tạo để não bạn đi xa hơn là hoàn toàn có thể. Thậm chí, có rất nhiều gợi ý cho cách học nghĩ sáng tạo.

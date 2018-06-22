@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2017-03-08 13:24:34+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2017/03/08/ki-nguyen-cua-cac-gia-tri-bi-xoa-mon/
-slug: ki-nguyen-cua-cac-gia-tri-bi-xoa-mon
 title: Kỉ nguyên của các giá trị bị xóa mòn
-wordpress_id: 620
+date: 2017-03-08 13:24:34 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2017/03/08/ki-nguyen-cua-cac-gia-tri-bi-xoa-mon/
+wordpress_id: 620
 ---
 
 Như các bạn đã biết, trong kì bầu cử Mỹ vừa qua, tôi đã đặt cửa Clinton và thua ông sếp mình 50$. Lúc đó, Clinton có lợi thế hơn Trump nhiều và vì vậy nhà cái cũng đặt mức cược tương ứng với kết quả khảo sát trước kì bỏ phiếu (Clinton kèo 1 ăn 1.3 và Trump 1 ăn 3.5). Câu chuyện mà tôi đã không kể cho các bạn là khi đó tôi đã đặt cửa Trump vào một nhà cái trên mạng, cũng với mức cược 50$. Khi Trump thắng, tôi thua sếp mình 50$ nhưng ăn 175$, kết quả tôi ăn 125$. Ngược lại, dù cho Clinton thắng, tôi ăn sếp 50$ và thua 50$, kết quả tôi sẽ hòa. Như vậy, trong cuộc chơi này tôi chỉ có từ hòa trở lên. Và niềm đam mê của ông sếp đối với Trump đã được sử dụng để tạo ra lợi thế này cho tôi. Các bạn không nghe nhầm đâu, chúng ta đang sống trong thời đại mà sự yêu thích hay đam mê cũng có thể bị đem ra trao đổi và tạo lợi thế. Kĩ thuật này được sử dụng khá nhiều trong giới kinh tế và nó được gọi là hoán đổi rủi ro.<!-- more -->

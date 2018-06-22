@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-04-15 09:43:48+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/04/15/tinh-yeu-co-tu-noi-dau/
-published: false
-slug: tinh-yeu-co-tu-noi-dau
 title: Tình yêu có từ nơi đâu??? (một bài viết hay của Paul)
-wordpress_id: 153
+date: 2007-04-15 09:43:48 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/04/15/tinh-yeu-co-tu-noi-dau/
+wordpress_id: 153
 ---
 
 **Tình yêu trên dòng sông quan họ**

@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-02-04 14:41:24+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/02/04/tho-nguyen-qua-truong-hay-la-mot-su-tran-tro-ve-so-phan/
-slug: tho-nguyen-qua-truong-hay-la-mot-su-tran-tro-ve-so-phan
 title: Thơ Nguyễn Qua Truông hay là một sự trăn trở về số phận
-wordpress_id: 217
+date: 2009-02-04 14:41:24 Z
 categories:
 - Sách hay
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/02/04/tho-nguyen-qua-truong-hay-la-mot-su-tran-tro-ve-so-phan/
+wordpress_id: 217
 ---
 
 Đây là một tập thơ, tựa đề rất đơn giản “thơ** Nguyễn Qua Truông**”, tôi nhận được tập thơ vào mùng 4 tết Kỷ Sửu 2009, tác giả tên thật là **Nguyễn Phương**, đồng nghiệp của bố tôi trong công ty xây dựng, hiện đang quản lý một mỏ đá. Một đời nghệ sĩ, góp nhặt những cảm xúc, trải nghiệm thành thơ, in thành sách do Hội văn học nghệ thuật Quảng Ngãi xuất bản, khoảng 600 cuốn, mẹ tôi cho rằng bác Phương đã có công trình để đời. Mẹ tôi khen, tại mỏ đá của bác, một chậu hoa hồng đặt trên bờ rào đá cũng là đẹp, như sơn nữ kiều diễm giữa núi rừng khắc nghiệt. Tập thơ khoảng chục bài, không phân thể loại, cũng không ghi ngày tháng sáng tác từng bài, nên tôi không hiểu cách sắp xếp các bài thơ theo trình tự nào.<!-- more -->

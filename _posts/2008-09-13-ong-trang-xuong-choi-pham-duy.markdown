@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-09-13 04:26:41+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/09/13/ong-trang-xuong-choi-pham-duy/
-published: false
-slug: ong-trang-xuong-choi-pham-duy
 title: Ông Trăng Xuống Chơi - Phạm Duy
-wordpress_id: 196
+date: 2008-09-13 04:26:41 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/09/13/ong-trang-xuong-choi-pham-duy/
+wordpress_id: 196
 ---
 
 Bài này luôn gợi cho tôi về một thời kì của tuổi thơ, lúc đó ba tôi, mẹ tôi và tôi còn ở nhà bà nội, một thời kì gian khó. Mỗi đêm, ba và tôi nằm giữa sân, ba chỉ cho tôi về các ngôi sao, về con mèo leo cây cau ra sao, bóng hai cây cau trong sân nhà bà nội đung đưa vì gió, rồi ba hát cho tôi nghe bài này.

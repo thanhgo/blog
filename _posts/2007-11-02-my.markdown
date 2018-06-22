@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-11-02 09:54:12+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/11/02/my/
-published: false
-slug: my
 title: Mỹ
-wordpress_id: 170
+date: 2007-11-02 09:54:12 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/11/02/my/
+wordpress_id: 170
 ---
 
 Làm sao có thể hô _**"Mỹ chết đi!",**_ trong khi anh đang mặc quần Jean?

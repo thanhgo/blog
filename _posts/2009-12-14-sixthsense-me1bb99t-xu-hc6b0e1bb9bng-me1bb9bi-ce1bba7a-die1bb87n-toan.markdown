@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2009-12-14 09:55:56+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2009/12/14/sixthsense-m%e1%bb%99t-xu-h%c6%b0%e1%bb%9bng-m%e1%bb%9bi-c%e1%bb%a7a-di%e1%bb%87n-toan/
-published: false
-slug: sixthsense-m%e1%bb%99t-xu-h%c6%b0%e1%bb%9bng-m%e1%bb%9bi-c%e1%bb%a7a-di%e1%bb%87n-toan
 title: SixthSense - một xu hướng mới của điện toán?
-wordpress_id: 264
+date: 2009-12-14 09:55:56 Z
+published: false
 categories:
 - Công nghệ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2009/12/14/sixthsense-m%e1%bb%99t-xu-h%c6%b0%e1%bb%9bng-m%e1%bb%9bi-c%e1%bb%a7a-di%e1%bb%87n-toan/
+wordpress_id: 264
 ---
 
 Không có từ ngữ nào để mô tả sự thán phục cả, xem thì biết...

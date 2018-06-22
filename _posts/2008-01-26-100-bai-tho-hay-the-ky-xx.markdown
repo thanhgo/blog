@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-01-26 00:29:25+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/01/26/100-bai-tho-hay-the-ky-xx/
-published: false
-slug: 100-bai-tho-hay-the-ky-xx
 title: 100 bài thơ hay thế kỷ XX
-wordpress_id: 178
+date: 2008-01-26 00:29:25 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/01/26/100-bai-tho-hay-the-ky-xx/
+wordpress_id: 178
 ---
 
 Mấy hôm nay đang đọc cuốn này, tự nhiên không thấy thích mấy bài thơ cách mạng nữa mà chuyển hướng qua thơ tình, nên post lên vài bài cho pà kon đọc chơi: (tải toàn bộ cuốn sách [tại đây](http://cid-f813e62a87e860b1.skydrive.live.com/self.aspx/Public/100%20bai%20tho%20hay%20the%20ky%20XX.pdf))

@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-05-21 04:02:36+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/05/21/blog-cua-em-tui/
-published: false
-slug: blog-cua-em-tui
 title: Blog của em tui
-wordpress_id: 158
+date: 2007-05-21 04:02:36 Z
+published: false
 categories:
 - Suy nghĩ
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/05/21/blog-cua-em-tui/
+wordpress_id: 158
 ---
 
 URL: [http://khanhhan.wordpress.com

@@ -1,8 +1,10 @@
 ---
 title: Sự thật
+date: 2018-03-09 00:00:00 Z
+categories:
+- y
+- khoa
 layout: post
-categories: y khoa
-date: 2018-03-09
 author: drbinhthanh
 ---
 

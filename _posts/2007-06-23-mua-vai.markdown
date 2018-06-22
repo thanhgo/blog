@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-06-23 02:54:30+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/06/23/mua-vai/
-published: false
-slug: mua-vai
 title: Mùa vải
-wordpress_id: 162
+date: 2007-06-23 02:54:30 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/06/23/mua-vai/
+wordpress_id: 162
 ---
 
 Buổi tối, ký túc xá, một mình, trong phòng 304C, không làm gì cả, thấy vô vị, tôi chợt thèm một cái gì đó không rõ. Đúng rồi, vải, bây giờ đang là đầu mùa vải. Mới đầu mùa nhưng lúc sáng trên radio nói chỉ có 6 nghìn 1 kg. Không chần chừ, phóng xe ra chợ.  

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-08-23 08:33:22+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/08/23/tien-em-lay-chong/
-published: false
-slug: tien-em-lay-chong
 title: Tiễn em lấy chồng
-wordpress_id: 184
+date: 2008-08-23 08:33:22 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/08/23/tien-em-lay-chong/
+wordpress_id: 184
 ---
 
 TKKH:

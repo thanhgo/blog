@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-06-24 10:37:11+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/06/24/thanh-em-co-de-nuoi-khong/
-published: false
-slug: thanh-em-co-de-nuoi-khong
 title: '"Thành, em có dễ nuôi không?"'
-wordpress_id: 181
+date: 2008-06-24 10:37:11 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/06/24/thanh-em-co-de-nuoi-khong/
+wordpress_id: 181
 ---
 
 Đó là lời nói thú vị nhất tôi nghe được từ một người con gái.

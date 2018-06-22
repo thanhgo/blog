@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-01-03 08:48:21+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/01/03/vung-lay-cua-chung-ta/
-published: false
-slug: vung-lay-cua-chung-ta
 title: Vũng lầy của chúng ta
-wordpress_id: 386
+date: 2011-01-03 08:48:21 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/01/03/vung-lay-cua-chung-ta/
+wordpress_id: 386
 ---
 
 Khi con người không còn ham muốn nữa, tức là người đó đã chạm đến đôi vai của thần chết

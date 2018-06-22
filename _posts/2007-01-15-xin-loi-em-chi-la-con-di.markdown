@@ -1,19 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-01-15 07:33:40+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/01/15/xin-loi-em-chi-la-con-di/
+title: "“Xin lỗi, em chỉ là con đĩ”"
+date: 2007-01-15 07:33:40 Z
 published: false
-slug: xin-loi-em-chi-la-con-di
-title: “Xin lỗi, em chỉ là con đĩ”
-wordpress_id: 64
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/01/15/xin-loi-em-chi-la-con-di/
+wordpress_id: 64
 ---
-
-
-
 
 _“Xin lỗi, em chỉ là con đĩ”_
 

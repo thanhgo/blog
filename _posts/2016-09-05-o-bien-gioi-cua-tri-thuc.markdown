@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2016-09-05 12:20:05+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2016/09/05/o-bien-gioi-cua-tri-thuc/
-slug: o-bien-gioi-cua-tri-thuc
 title: Ở biên giới của tri thức
-wordpress_id: 607
+date: 2016-09-05 12:20:05 Z
 categories:
 - Công nghệ
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2016/09/05/o-bien-gioi-cua-tri-thuc/
+wordpress_id: 607
 ---
 
 Tôi đã có một hành trình dài với những giấc mộng công nghệ trong hơn 10 năm nay, đặc biệt là công nghệ thông tin. Tôi đã từng mơ mộng rất nhiều về một thế giới công nghệ thống nhất và những hệ lụy của nó đối với xã hội này.

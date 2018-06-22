@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-05-16 15:54:05+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/05/16/hat-ru-chong-nhung-dem-kho-ngu/
-published: false
-slug: hat-ru-chong-nhung-dem-kho-ngu
 title: Hát ru chồng những đêm khó ngủ
-wordpress_id: 411
+date: 2011-05-16 15:54:05 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/05/16/hat-ru-chong-nhung-dem-kho-ngu/
+wordpress_id: 411
 ---
 
 _Ngày hôm nay, có quá nhiều sự kiện, có quá nhiều thứ đau đầu (mọi người đừng hỏi vì em không thể nói trên facebook được). Đột nhiên em lại nhớ tới Quỳnh, chỉ Quỳnh mà thôi (nếu Xuân Quỳnh sống cùng thời với em, chắc em bán nhà bán đất để tán em đó quá)_

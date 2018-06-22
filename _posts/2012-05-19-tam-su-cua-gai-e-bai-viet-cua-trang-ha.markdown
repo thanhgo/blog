@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2012-05-19 16:23:03+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2012/05/19/tam-su-cua-gai-e-bai-viet-cua-trang-ha/
-published: false
-slug: tam-su-cua-gai-e-bai-viet-cua-trang-ha
 title: Tâm sự của gái ế (bài viết của Trang Hạ)
-wordpress_id: 464
+date: 2012-05-19 16:23:03 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2012/05/19/tam-su-cua-gai-e-bai-viet-cua-trang-ha/
+wordpress_id: 464
 ---
 
 bài này lấy từ [Trang Hạ blog](http://trangha.wordpress.com/)

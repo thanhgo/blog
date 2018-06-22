@@ -1,22 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-05-07 04:32:59+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/05/07/sinh-nam-1986/
-published: false
-slug: sinh-nam-1986
 title: Sinh năm 1986
-wordpress_id: 409
+date: 2011-05-07 04:32:59 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/05/07/sinh-nam-1986/
+wordpress_id: 409
 ---
-
-
-
-
-
-
 
 Theo thông cáo gần đây nhất ([http://bit.ly/mvSeHZ](http://bit.ly/mvSeHZ)) của tổ chức lao động quốc tế (ILO), nền kinh tế thế giới đang đứng trước nguy cơ của một cuộc khủng hoảng kép. Và nền kinh tế đó không có mấy khả năng tạo ra việc làm mới cho người trẻ. Điều này là một ác mộng, điều này có nghĩa chúng ta là thế hệ mất mát, lãng phí cả một thế hệ.
 

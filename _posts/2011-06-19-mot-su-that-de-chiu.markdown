@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2011-06-19 14:14:06+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2011/06/19/mot-su-that-de-chiu/
-slug: mot-su-that-de-chiu
 title: Một sự thật dễ chịu
-wordpress_id: 422
+date: 2011-06-19 14:14:06 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2011/06/19/mot-su-that-de-chiu/
+wordpress_id: 422
 ---
 
 Một buổi sáng bạn thức dậy, anh hàng xóm vui vẻ nhà bên cạnh thông báo với bạn rằng chính phủ Việt Nam đã tuyên bố giải thể, Việt Nam bây giờ trở thành khu tự trị An Nam thuộc mẫu quốc Trung Hoa vĩ đại. Bạn lo sợ rằng một cuộc thanh trừng đẫm máu sẽ sớm diễn ra trên toàn cõi An Nam này. Nhưng bạn cũng phải ra khỏi nhà để đến công ty.

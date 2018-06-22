@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2016-01-29 16:33:24+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2016/01/29/quan-tri-dong-luc/
-slug: quan-tri-dong-luc
 title: Quản trị động lực
-wordpress_id: 604
+date: 2016-01-29 16:33:24 Z
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2016/01/29/quan-tri-dong-luc/
+wordpress_id: 604
 ---
 
 Các hệ thống toàn trị, vốn được xây dựng dựa trên ý chí và đam mê của một nhúm nhỏ các cá nhân, theo như tôi thấy, thường cố gắng tái dựng lại cuộc sống theo diễn dịch của nó. Trong hệ thống đó cũng có trường học, bệnh viện, hí trường và mọi thứ khác, thậm chí hoành tráng hơn nếu chỉ xét về mặt vật chất. Nhưng những thứ đó không được xây dựng dựa trên động lực của mỗi công dân, không phải dựa trên niềm vui thật, nỗi đau thật, đam mê thật sự mà chỉ để duy trì sự tồn tại của hệ thống bằng mọi giá và giữ các công dân của nó ở mức thấp nhất của tháp nhu cầu Maslow.‎

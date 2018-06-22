@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2010-05-07 10:55:59+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2010/05/07/thanhgo-on-edge/
-published: false
-slug: thanhgo-on-edge
 title: thanhgo on edge
-wordpress_id: 337
+date: 2010-05-07 10:55:59 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2010/05/07/thanhgo-on-edge/
+wordpress_id: 337
 ---
 
 khuyến cáo: nên nghe bài hát này trong khi đọc bài

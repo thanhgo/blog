@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-03-07 09:21:49+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/03/07/su-khac-nhau-giua-sai-gon-va-ha-noi/
-published: false
-slug: su-khac-nhau-giua-sai-gon-va-ha-noi
 title: Sự khác nhau giữa Sài gòn và Hà nội
-wordpress_id: 149
+date: 2007-03-07 09:21:49 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/03/07/su-khac-nhau-giua-sai-gon-va-ha-noi/
+wordpress_id: 149
 ---
 
 **Cà Phê**  

@@ -1,16 +1,15 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2014-04-20 16:14:57+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2014/04/20/ngoi-sao-phuong-bac/
-slug: ngoi-sao-phuong-bac
 title: Ngôi sao phương bắc
-wordpress_id: 489
+date: 2014-04-20 16:14:57 Z
 categories:
 - Công nghệ
 - Chính trị
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2014/04/20/ngoi-sao-phuong-bac/
+wordpress_id: 489
 ---
 
 Trong buổi học Luật Kinh Tế tối thứ 6 vừa qua với thầy Phạm Duy Nghĩa, tôi có đưa ra một câu hỏi về khả năng sáng chế hóa (patentability) và cách phân biệt giữa khám phá (discovery) và phát minh (invention). Tuy nhiên, trong phạm vi một buổi học, tôi không thể trình bày hết ý tưởng của mình, nên tôi sẽ trình bày lại ở đây (nếu không tôi sẽ bứt rứt không thể ngủ được mất)

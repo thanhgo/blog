@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-12-09 03:49:24+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/12/09/pourquoi-notre-coeur-fait-tic-tac/
-published: false
-slug: pourquoi-notre-coeur-fait-tic-tac
 title: Pourquoi notre cœur fait tic-tac ?
-wordpress_id: 175
+date: 2007-12-09 03:49:24 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/12/09/pourquoi-notre-coeur-fait-tic-tac/
+wordpress_id: 175
 ---
 
 Le Papillon - Claire Bouanich & Michel Serrault

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2008-11-29 03:09:20+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2008/11/29/nhung-cong-trinh-tu-dau-nam-hoc-toi-nay/
-published: false
-slug: nhung-cong-trinh-tu-dau-nam-hoc-toi-nay
 title: Những công trình từ đầu năm học tới nay
-wordpress_id: 210
+date: 2008-11-29 03:09:20 Z
+published: false
 categories:
 - Y khoa
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2008/11/29/nhung-cong-trinh-tu-dau-nam-hoc-toi-nay/
+wordpress_id: 210
 ---
 
 Hôm nay, gần cuối tháng 11 rồi mà tôi vẫn chưa có một bài viết nào trong tháng, một phần cũng do quá bận cho những việc khác.

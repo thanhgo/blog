@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-11-24 00:19:21+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/11/24/10-quy-dinh-cua-bo-vo-tuong-lai/
-published: false
-slug: 10-quy-dinh-cua-bo-vo-tuong-lai
 title: 10 quy định của bố vợ tương lai
-wordpress_id: 172
+date: 2007-11-24 00:19:21 Z
+published: false
 categories:
 - Suy nghĩ
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/11/24/10-quy-dinh-cua-bo-vo-tuong-lai/
+wordpress_id: 172
 ---
 
 1- Nếu cậu phóng xe đến nhà tôi rồi bấm còi “pim pim” thì cậu sẽ phải đi chơi tối hôm đó một mình. Tốt hơn hết là xuống xe bấm chuông.

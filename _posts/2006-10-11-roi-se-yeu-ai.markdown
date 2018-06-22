@@ -1,14 +1,13 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2006-10-11 04:47:34+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2006/10/11/roi-se-yeu-ai/
-slug: roi-se-yeu-ai
 title: Rồi sẽ yêu ai
-wordpress_id: 54
+date: 2006-10-11 04:47:34 Z
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2006/10/11/roi-se-yeu-ai/
+wordpress_id: 54
 ---
 
 <blockquote>Tặng Hin</blockquote>

@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2005-04-14 03:38:00+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2005/04/14/bai-tho-trong-ngoi-mo-co/
-published: false
-slug: bai-tho-trong-ngoi-mo-co
 title: Bai tho trong ngoi mo co
-wordpress_id: 15
+date: 2005-04-14 03:38:00 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2005/04/14/bai-tho-trong-ngoi-mo-co/
+wordpress_id: 15
 ---
 
 **KHUYẾT DANH** (Trung Quốc)

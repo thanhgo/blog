@@ -1,15 +1,14 @@
 ---
-author: drbinhthanh
-comments: true
-date: 2007-01-15 07:26:36+00:00
-layout: post
-link: https://drbinhthanh.wordpress.com/2007/01/15/dung-vo-nat-thu-em/
-published: false
-slug: dung-vo-nat-thu-em
 title: Đừng vò nát thư em
-wordpress_id: 62
+date: 2007-01-15 07:26:36 Z
+published: false
 categories:
 - Thơ văn
+author: drbinhthanh
+comments: true
+layout: post
+link: https://drbinhthanh.wordpress.com/2007/01/15/dung-vo-nat-thu-em/
+wordpress_id: 62
 ---
 
 ### Đừng vò nát thư em
