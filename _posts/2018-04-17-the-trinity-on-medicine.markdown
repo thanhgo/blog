@@ -1,6 +1,6 @@
 ---
 title: The trinity on medicine
-date: 2018-04-17 00:00:00 Z
+date: '2018-04-17 00:00:00'
 categories:
 - small
 layout: post

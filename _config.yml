@@ -110,4 +110,4 @@ compress_html:
     - development
 sass:
   style: compressed
-theme: jekyll-theme-hacker
+  # theme: jekyll-theme-hacker
