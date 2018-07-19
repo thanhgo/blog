@@ -2,14 +2,15 @@
 title: Lựa chọn phương pháp ngừa thai sau sanh
 date: '2018-07-11 08:37:52'
 category:
-- medium
 - y
 layout: post
-author: drbinhthanh
+author: drthanhhoang
 ---
 
 ### TẠI SAO PHẢI NGỪA THAI SAU SANH?  
 Nếu bạn không dùng biện pháp ngừa thai nào sau sanh, bạn có khả năng có thai lại rất sớm. Sử dụng một phương pháp ngừa thai trong những tuần đầu sau sanh (giai đoạn hậu sản) giúp bạn tránh được có thai ngoài ý muốn
+
+![](https://scontent.fsgn2-2.fna.fbcdn.net/v/t45.1600-4/cp0/q90/c154.0.553.553/31246723_23842798496720479_260318066594807808_n.png.jpg?_nc_cat=0&efg=eyJxZV9ncm91cHMiOlsibm9fc2FmZV9pbWFnZV9mb3JfYWRzX2ltYWdlIl19&oh=fcaee2f3909b31acf527dd4d807751df&oe=5BC76777)
 
 ### TÔI LỰA CHỌN MỘT PHƯƠNG PHÁP NGỪA THAI SAU SANH NHƯ THẾ NÀO?  
 Khi bạn chọn lựa phương pháp ngừa thai sau khi sanh, bạn cần nghĩ đến các yếu tố sau:  

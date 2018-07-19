@@ -61,6 +61,64 @@ drringo:
     # stumbleupon:     <username>
     # paypal:          <username>
 
+drthanhhoang:
+  # Replace <...> with your own (remove the < >)
+  name:             'Bs. Phạm Thanh Hoàng' 
+  email:            phamhoang03523@gmail.com
+  telephone:	'097 154 14 21'
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+     Bs. Phạm Thanh Hoàng là một giảng viên trẻ tại bộ môn sản phụ khoa, Đại học Y Dược TPHCM. Anh ấy cũng là bác sĩ hướng dẫn thực hành cho các sinh viên y khoa tại bệnh viện Từ Dũ.
+  # This photo will be used in the about section.
+  picture:
+    path:            /assets/drthanhhoang.jpg
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            /assets/drthanhhoang.jpg 
+    # 2x:            /assets/drringo.jpg
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    # twitter:         ringotaylor06
+    # github:          drringo
+    email:           phamhoang03523@gmail.com
+    # rss:             https://<url>/feed.xml
+    facebook:        BSPhamThanhHoang
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
 # Another author
 author2:
   name:              <firtname> <lastname>
