@@ -11,7 +11,7 @@ link: https://drbinhthanh.wordpress.com/2005/03/02/ngay-nhu-moi-ngay/
 wordpress_id: 5
 ---
 
-Một ngày như mọi ngày,
-và trái đất vẫn đều quay.
-Mà sao tôi bỗng thấy,
-cuộc sống thật đáng yêu.
+Một ngày như mọi ngày, 
+và trái đất vẫn đều quay. 
+Mà sao tôi bỗng thấy, 
+cuộc sống thật đáng yêu. 
