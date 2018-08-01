@@ -119,6 +119,73 @@ drthanhhoang:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
+
+drdoanngoc:
+  # Replace <...> with your own (remove the < >)
+  name:             drdoanngoc 
+  email:            ngocyds@gmail.com 
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about: |
+  ***Chào các bạn!***
+
+Tôi là một Bác sĩ Sản phụ khoa. Ngoài ra tôi còn là vợ của một anh chồng đẹp trai và là mẹ của một bé gái xinh xắn! 
+
+Là một người mẹ, tôi cũng mua khá nhiều sách và lên mạng tìm hiểu về các thông tin chăm sóc em bé. Nhưng khi một người bạn hỏi về các thông tin chăm sóc cho mẹ thì tôi lại không biết phải giới thiệu cho bạn ấy như thế nào! Các thông tin thường được viết bởi các nhà báo không có kiến thức chuyên môn hoặc từ các kinh nghiệm dân gian, truyền tai từ mẹ này sang mẹ khác... Chính điều này nhiều khi lại gây nên những lo lắng, hoang mang không cần thiết hoặc có khi là những sai lầm đáng tiếc!
+
+Tôi hy vọng qua đây bạn sẽ thu nhận được nhiều điều bổ ích và nếu có kinh nghiệm gì bạn cũng hãy comment cho tôi biết với nhé! Tôi cảm ơn bạn rất nhiều! Kiến thức là để sẻ chia! Khi có kiến thức chúng ta có thể chăm sóc không chỉ bản thân mà còn những người thân yêu nữa! Hãy là PHÁI ĐẸP NHƯNG KHÔNG YẾU bạn nhé!
+
+  # This photo will be used in the about section.
+  picture:
+    path:            /assets/drdoanngoc.png
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            /assets/drdoanngoc.png
+    # 2x:            /assets/drdoanngoc.png
+
+  # Social media icons in sidebar.
+  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
+  social:
+    # twitter:         
+    # github:          drringo
+    email:           mailto:ngocyds@gmail.com
+    # rss:             https://<url>/feed.xml
+     facebook:        bsdoanngoc.bvtudu
+    # google:          <number>
+    # vk:              <username>
+    # youtube:         <string_string_string>
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    # linkedin:        <firstname-lastname-string>
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+
+
 # Another author
 author2:
   name:              <firtname> <lastname>
