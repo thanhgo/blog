@@ -44,7 +44,7 @@ Các dấu hiệu trên siêu âm xác định thai lưu sớm: (ACOG 2015)
 + Túi thai chưa có yolk sac, siêu âm lại 2 tuần sau hoặc hơn vẫn không thấy phôi có tim thai  
 + Túi thai đã có yolk sac, siêu âm lại 11 ngày sau hoặc hơn vẫn không thấy phôi có tim thai
 
-CÁC PHƯƠNG PHÁP ĐIỀU TRỊ?
+## CÁC PHƯƠNG PHÁP ĐIỀU TRỊ?
 
 Khi bị thai lưu sớm, bạn có thể chọn một trong 3 phương pháp:  
 + Chờ đợi cho thai tự sẩy  
