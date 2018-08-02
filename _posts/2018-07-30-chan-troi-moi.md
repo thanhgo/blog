@@ -3,6 +3,7 @@ title: Chân trời mới
 author: drbinhthanh
 layout: post
 category: small
+comments: true
 ---
 
 [Tôi thường tự hỏi nếu mình không phải là người Việt thì cuộc đời của mình sẽ như thế nào, và tôi không thể đợi đến kiếp sau để thấy điều đó]

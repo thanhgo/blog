@@ -34,7 +34,7 @@ tagline:               >
   Dr. Ringo's stories and mainsteam thinking.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [medicine, finance, obstetric, gynecology]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/ico.png
@@ -71,7 +71,7 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          '#4fb1ba'
+accent_color:          '#C17B74'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
