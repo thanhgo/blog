@@ -1,5 +1,5 @@
 ---
-title: Vaccine cúm và thai kì
+title: Cúm là gì?
 layout: post
 author: drthanhhoang
 category:
