@@ -10,9 +10,8 @@ link: https://drbinhthanh.wordpress.com/2005/03/23/em-bao-anh-di-di/
 wordpress_id: 9
 ---
 
-[![](http://photos1.blogger.com/img/81/4195/320/dnd_autumn.jpg)](http://photos1.blogger.com/img/81/4195/640/dnd_autumn.jpg)
+[![tree](http://photos1.blogger.com/img/81/4195/320/dnd_autumn.jpg)](http://photos1.blogger.com/img/81/4195/640/dnd_autumn.jpg)
 autumn
-
 
 **CAPUTIKIAN** (Armenia)
 

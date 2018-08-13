@@ -11,10 +11,9 @@ link: https://drbinhthanh.wordpress.com/2007/01/15/dung-vo-nat-thu-em/
 wordpress_id: 62
 ---
 
-### Đừng vò nát thư em
+# Đừng vò nát thư em
 
-### Anna Akhmatova  
-
+## Anna Akhmatova  
 
 Anh thân yêu, đừng vò nát thư em  
 Hãy kiên nhẫn đọc đến cùng, anh nhé  

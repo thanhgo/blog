@@ -14,11 +14,9 @@ wordpress_id: 8
 [![](http://photos1.blogger.com/img/81/4195/320/birch.jpg)](http://photos1.blogger.com/img/81/4195/640/birch.jpg)
 Bach Duong
 
-
-
 **M.EMINESCU** (Rumanni)
 
-**Nếu đang đêm bạch dương**
+***Nếu đang đêm bạch dương***
 
 Nếu đang đêm bạch dương
 Lại đập vào cánh cửa,
@@ -32,6 +30,5 @@ Và dông tố qua đi,
 Và mặt trời lại dậy,
 Cũng chỉ để cho anh
 Suốt đời yêu em đấy.
-
 
 **Thái Bá Tân** dịch

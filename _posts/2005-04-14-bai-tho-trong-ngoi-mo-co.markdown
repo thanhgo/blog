@@ -20,5 +20,4 @@ Thiếp sinh chàng đã già rồi còn đâu!
 Chàng buồn vì thiếp sinh sau
 Bởi chàng sinh sớm thiếp sầu ngàn thu…
 
-
-_** Mai Văn Tạo**_ dịch
+**Mai Văn Tạo** dịch

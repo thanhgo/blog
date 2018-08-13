@@ -13,7 +13,7 @@ wordpress_id: 55
 
 Ai trong chúng ta cũng có sự sáng tạo, và tin tốt là nếu bạn thấy mình "chưa" (chứ không phải là "không") sáng tạo, bạn có thể học. Công việc càng khó thì não bạn hoạt động càng tích cực. Theo nghiên cứu thì đến thiên tài cũng mới sử dụng có 15% hiệu suất não của mình! Cho nên, học nghĩ sáng tạo để não bạn đi xa hơn là hoàn toàn có thể. Thậm chí, có rất nhiều gợi ý cho cách học nghĩ sáng tạo.
 
-_**a. Phương pháp SAEDI - "SAEDI" không phải là từ gì quái dị, nó là từ "IDEAS" viết lộn ngược. Ðôi khi, nghĩ sáng tạo chỉ cần bạn nhìn mọi thứ theo chiều khác đi.**_
+***a. Phương pháp SAEDI - "SAEDI" không phải là từ gì quái dị, nó là từ "IDEAS" viết lộn ngược. Ðôi khi, nghĩ sáng tạo chỉ cần bạn nhìn mọi thứ theo chiều khác đi.***
 
 **S = State of mind (cách suy nghĩ): **Tự nói rằng "Tôi chẳng sáng tạo chút nào" hoặc "Tôi chẳng bao giờ có ý tưởng gì hay ho đâu" sẽ huỷ hoại sức sáng tạo của bạn. Nghĩ sáng tạo đòi hỏi nghĩ tích cực.
 
@@ -25,7 +25,7 @@ _**a. Phương pháp SAEDI - "SAEDI" không phải là từ gì quái dị, nó 
 
 **I = Ink (viết). **Khi bạn nhìn vào những thứ bạn viết ra, bạn sẽ có nhiều ý tưởng hơn là chỉ nghĩ đến nó.
 
-_**b. TILS: **_
+**b. TILS:**
 
 **T = Think it: **Suy nghĩ.
 
@@ -37,7 +37,7 @@ _**b. TILS: **_
 
 **Luyện tập **
 
-_Có những bài tập suy nghĩ sáng tạo mà bạn có thể thử:_
+*Có những bài tập suy nghĩ sáng tạo mà bạn có thể thử:*
 
 - Nếu bạn cần giao tiếp nhưng bạn không thể sử dụng từ ngữ, dù viết hay nói, thì bạn làm cách nào? Một người đã đưa ra những ý sau: ngôn ngữ cử chỉ, dùng trống, dùng đồ vật, dùng đèn nhấp nháy, vẽ...
 

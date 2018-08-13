@@ -28,6 +28,4 @@ Mua hạnh phúc, sự bình yên, tình bạn…”
 “Hàng chúng tôi chỉ bán cây non
 Còn quả chín, anh phải trồng, không bán!”
 
-
-
 **Thái Bá Tân** dịch.

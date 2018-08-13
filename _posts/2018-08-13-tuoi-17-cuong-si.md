@@ -7,7 +7,7 @@ author: drbinhthanh
 
 [Đang ở Huế, cafe Gác Trịnh]
 
-![](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/38843987_10155989985828192_9066525784029528064_o.jpg?_nc_cat=0&oh=56f547811e2d1da36519c41a24cee184&oe=5BF573E6)
+![cafe Gac Trinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/38843987_10155989985828192_9066525784029528064_o.jpg?_nc_cat=0&oh=56f547811e2d1da36519c41a24cee184&oe=5BF573E6)
 
 Có một câu hỏi tôi thường hay sử dụng để hỏi một cô gái mới quen, dưới hình thức này hay hình thức khác, đó là:** "em đã ở đâu khi anh trải qua tuổi 17 cuồng si?"**. Thường thì câu trả lời là lúc đó chắc em còn đi học, hoặc sau này có thể là lúc đó em chưa ra đời. Rồi tôi sẽ hỏi về tuổi 17 của cô ấy.
 

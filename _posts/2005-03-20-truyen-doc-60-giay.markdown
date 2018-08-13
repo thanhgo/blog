@@ -13,9 +13,7 @@ wordpress_id: 7
 
 Truyện đọc 60 giây
 
-
-**Nguyễn Thị Mỹ Phượng**
-
+***Nguyễn Thị Mỹ Phượng***
 
 Đôi tình nhân bước vào một nhà hàng sang trọng. Cô gái dịu dàng hỏi người yêu:
 

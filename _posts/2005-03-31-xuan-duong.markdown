@@ -15,9 +15,6 @@ wordpress_id: 10
 Đã bảo rằng tôi chẳng biết yêu,
 Ngây thơ như mây trắng buổi ban chiều.
 Mây Trắng chiều nay sao bật khóc,
-Phải rồi, Mây Trắng khóc vì yêu. 
-
-
-
+Phải rồi, Mây Trắng khóc vì yêu.  
 
 Viết lại theo giọng đọc của chị **Xuân Đường.**
