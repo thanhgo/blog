@@ -1,24 +1,10 @@
-<span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
-<ul>
-  {% assign pages = site.pages | where: "menu", true %}
-  {% assign documents = site.documents | where: "menu", true %}
-  {% assign nodes = pages | concat: documents | sort: "order" %}
-  {% for node in nodes %}
-    {% unless node.redirect_to %}
-      <li>
-        <a
-          {% if forloop.first %}id="_navigation"{% endif %}
-          href="{{ node.url | relative_url }}"
-          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
-          {% if path.rel %}rel="{{ node.rel }}"{% endif %}
-          >
-          {{ node.title }}
-        </a>
-      </li>
-    {% else %}
-      <li>
-        <a href="{{ node.redirect_to }}" class="sidebar-nav-item external" >{{ node.title }}</a>
-      </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
+
+<nav class="nav">
+  <div class="container">
+    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
+    <ul class="navbar">
+      <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About me</a></li>
+      <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
+    </ul>
+  </div>
+</nav>
