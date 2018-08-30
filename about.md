@@ -11,3 +11,6 @@ permalink: /about/
 
 You've found the online home of [**Dr. Ringo**
 ](https://drringo.github.io). I am a tech obsessed, Star Trek loving optimist. I've had the pleasure of working with the web since the 90s and believe that everyone can make the world a better place.
+
+abc 
+{{ "now" | date: "%Y-%m-%d %H:%M" }}
