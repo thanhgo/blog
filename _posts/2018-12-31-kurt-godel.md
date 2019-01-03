@@ -4,7 +4,7 @@ author: drbinhthanh
 layout: post
 ---
 
-![](http://www.prospectmagazine.co.uk/content/uploads/2018/12/Screenshot-2018-12-07-at-14.49.04.png)
+![](/assets/img/kurtgodel.png)
 
 Mấy hôm nay mình đang chơi game Assasin’s Creed Odyssey, đóng vai một anh hùng Hi Lạp cổ đại, là hậu duệ trực tiếp của người anh hùng Leonidas xứ Sparta đang phải sống lưu lạc từ nhỏ, và giằng co trong cuộc nội chiến giữa 2 thành bang Athens và Sparta. Tối nay, game dẫn mình đến sự kiện khám phá ra thành phố huyền thoại Atlantis và người cha thực sự của mình là Pythagoras.
 

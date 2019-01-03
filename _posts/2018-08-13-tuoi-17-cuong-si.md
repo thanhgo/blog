@@ -7,7 +7,7 @@ author: drbinhthanh
 
 [Đang ở Huế, cafe Gác Trịnh]
 
-![cafe Gac Trinh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/38843987_10155989985828192_9066525784029528064_o.jpg?_nc_cat=0&oh=56f547811e2d1da36519c41a24cee184&oe=5BF573E6)
+![cafe Gac Trinh](/assets/img/gactrinh2018.jpg)
 
 Có một câu hỏi tôi thường hay sử dụng để hỏi một cô gái mới quen, dưới hình thức này hay hình thức khác, đó là:** "em đã ở đâu khi anh trải qua tuổi 17 cuồng si?"**. Thường thì câu trả lời là lúc đó chắc em còn đi học, hoặc sau này có thể là lúc đó em chưa ra đời. Rồi tôi sẽ hỏi về tuổi 17 của cô ấy.
 
@@ -15,7 +15,7 @@ Cái tuổi đó rất đặc biệt, thưa các bạn. Dù các bạn có thừ
 
 Tuổi 17 của tôi chìm trong toán học và nhạc Trịnh. Hãy đổ lỗi cho ông thầy dạy nhạc của tôi, ngoài mấy bài kinh điển của Bach, Tárrega và Lobos, chỉ còn lại toàn nhạc Trịnh. Ở cái tuổi 17, tôi lại đi cảm nhận từng cơn thở ho hen của Trịnh trong âm nhạc, rồi lại căm thù chiến tranh qua ca khúc da vàng. Ở cái tuổi 17 khi mấy thằng bạn tôi ngồi trước nhà thằng Kiên thấy gái đi học về thì hú như chó sói thì hôm nay tôi lại tìm về căn gác mà Trịnh ngồi nhìn Diễm đi học về. Ở căn gác này, Trịnh đã sáng tác những bài đầu tiên trong sự nghiệp âm nhạc đáng tranh cãi của mình. Nhưng đừng trách thầy tôi mà phải tội, ông đã mất vì ung thư ở tuổi không tới 50, đẹp trai như Steve Jobs thời hoàng kim, chỉ có điều, Steve giàu bao nhiêu thì thầy tôi ngược lại bấy nhiêu. Một nghệ sĩ đúng nghĩa.
 
-![Dao Ánh](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/38805223_10155989985813192_1297344117851815936_n.jpg?_nc_cat=0&oh=5bd4c8748a5a05f2885a04de155a12c4&oe=5BFAF1C3)
+![Dao Ánh](/assets/img/daoanh.jpg)
 
 Thời của Trịnh, ông bắt đầu với Dao Ánh bằng thư tình và âm nhạc và kết thúc với Hồng Nhung cũng bằng thư tình và âm nhạc. Trong thế giới đi nhanh này, tôi ở tuổi 17 còn vác guitar chơi nhạc Trịnh nhưng ở tuổi 32 thì .... Ai nói được thời gian còn thay đổi đến điều gì nữa?
 
