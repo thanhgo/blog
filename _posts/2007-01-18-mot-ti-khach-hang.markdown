@@ -1,6 +1,6 @@
 ---
 title: Một Tỉ Khách Hàng
-date: 2007-01-18 08:01:25 Z
+date: '2007-01-18 08:01:25 +0000'
 categories:
 - Sách hay
 author: drbinhthanh
@@ -14,16 +14,16 @@ wordpress*id: 66
 
 Để bắt đầu, tôi xin trích một đoạn hài kịch:
 
-> “Vở kịch mở màn với hình ảnh ***Mao Trạch Đông*** trong bộ trang phục Hồng Vệ binh lùng thùng quen thuộc, tay kẹp quyển sách, trò chuyện cùng ***Chu Ân Lai***, người cộng sự đáng tin cậy trong cách mạng. Cuộc trò chuyện của họ cho thấy cuộc cách mạng của ông đã chuyển sang một cơn sốt làm giàu đang bao trùm cả nước.
+> “Vở kịch mở màn với hình ảnh ***Mao Trạch Đông*** trong bộ trang phục Hồng Vệ binh lùng thùng quen thuộc, tay kẹp quyển sách, trò chuyện cùng ***Chu Ân Lai***, người cộng sự đáng tin cậy trong cách mạng. Cuộc trò chuyện của họ cho thấy cuộc cách mạng của ông đã chuyển sang một cơn sốt làm giàu đang bao trùm cả nước.  
 Tiếp đó, ***Đặng Tiểu Bình***, người chịu trách nhiệm về sự bùng nổ kinh tế này bước lên sân khấu. ***Mao*** và ***Chu*** lo lắng khi ***Đặng*** đưa ra những yêu cầu phải chuẩn bị cho kỳ thi quan trọng. Chu đề nghị đưa người khác đi thi thay cho ***Mao***.
-*“Không được,”* ***Mao*** nói. *“Chúng ta, những người của **Đảng Cộng Sản**, phải trung thực và thật thà”.*
-***Đặng ***đồng tình: *“Chúng ta cần nắm bắt tương lai với cả hai tay. Một để lao động, một để học tập”.*
-*“Đúng thế,”** Mao*** nói, *“chúng ta không chỉ giỏi việc phá sập thế giới cũ kĩ lạc hậu mà còn phải giỏi trong việc xây dựng một thế giới mới tiên tiến. Các đồng chí, chúng ta phải thiết lập xã hội chủ nghĩa mang đặc điểm Trung Quốc.”*
-Trong lúc nói, ***Mao ***để khán giả nhìn thấy tựa đề quyển sách ông đang cầm: *Hướng dẫn ôn thi **GMAT*****.** *(Graduate Management Admission Test, là kì thi mà hầu hết các trường về thương mại luôn nhìn vào kết quả của nó để xét tuyển những ứng viên cho khoá học thạc sĩ quản trị kinh doanh.)*
-Vài phút sau, một nữ đồng chí trong trang phục Hồng Vệ binh băng qua sân khấu thông báo điểm thi **GMAT**. ***Mao***, ***Chu ***và ***Đặng*** đều thi đậu với kết quả đáng khích lệ!
-***Mao ***nắm chặt hai bàn tay ***Chu***, lúc lắc chúng một cách đầy hứng khởi.
-*“Ân Lai, Ân Lai, chúng ta lại vừa ghi thêm một chiến công nữa,” ông kêu lên “bây giờ chúng ta cùng là đồng môn **MBA** với nhau.”*
-Đám đông oà lên những tràng cười thích thú.”
+*“Không được,”* ***Mao*** nói. *“Chúng ta, những người của **Đảng Cộng Sản**, phải trung thực và thật thà”.*  
+***Đặng ***đồng tình: *“Chúng ta cần nắm bắt tương lai với cả hai tay. Một để lao động, một để học tập”.*  
+*“Đúng thế,”** Mao*** nói, *“chúng ta không chỉ giỏi việc phá sập thế giới cũ kĩ lạc hậu mà còn phải giỏi trong việc xây dựng một thế giới mới tiên tiến. Các đồng chí, chúng ta phải thiết lập xã hội chủ nghĩa mang đặc điểm Trung Quốc.”*  
+Trong lúc nói, ***Mao ***để khán giả nhìn thấy tựa đề quyển sách ông đang cầm: *Hướng dẫn ôn thi **GMAT*****.** *(Graduate Management Admission Test, là kì thi mà hầu hết các trường về thương mại luôn nhìn vào kết quả của nó để xét tuyển những ứng viên cho khoá học thạc sĩ quản trị kinh doanh.)*   
+Vài phút sau, một nữ đồng chí trong trang phục Hồng Vệ binh băng qua sân khấu thông báo điểm thi **GMAT**. ***Mao***, ***Chu ***và ***Đặng*** đều thi đậu với kết quả đáng khích lệ!  
+***Mao*** nắm chặt hai bàn tay ***Chu***, lúc lắc chúng một cách đầy hứng khởi.  
+*“Ân Lai, Ân Lai, chúng ta lại vừa ghi thêm một chiến công nữa,” ông kêu lên “bây giờ chúng ta cùng là đồng môn **MBA** với nhau.”*  
+Đám đông oà lên những tràng cười thích thú.”  
 
 
 <!-- more -->
