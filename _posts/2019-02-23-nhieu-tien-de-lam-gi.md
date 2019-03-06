@@ -4,7 +4,7 @@ author: drringo
 layout: post
 ---
 
-![](assets/img/sanktxquan8.jpg)
+![](/assets/img/sanktxquan8.jpg)
 
 ### Lịch sử bãi cỏ
 
@@ -14,9 +14,9 @@ Nó cũng giống như các đại gia ngày nay, họ thường sắm siêu xe 
 
 **Mới hay:**
 
-> "Trăm nghìn gửi lạy tình quân
-> Tơ duyên ngắn ngủi có ngần ấy thôi
-> Phận sao phận bạc như vôi
+> "Trăm nghìn gửi lạy tình quân  
+> Tơ duyên ngắn ngủi có ngần ấy thôi  
+> Phận sao phận bạc như vôi  
 > Đã đành nước chảy hoa trôi lỡ làng"
 
 
