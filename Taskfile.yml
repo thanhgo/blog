@@ -1,51 +1,17 @@
 version: '2'
 
-vars:
-    C: 'default public'
-
 tasks:
-    b:
-        desc: "Build the blog to standart html and javascript bundle"
-        cmds:
-            - echo "The blog is now build"
-            - bundle exec jekyll build
-        silent: true
-        
-    s:
-        desc: "Serve the blog at localhost for development, default port: 4000"
-        cmds:
-            - echo "The blog is now served"
-            - bundle exec jekyll serve
-        silent: true
-
-    c:
-        cmds:
-            - git add .
-            - git commit -m "{{ .C }}"
-
-    p:
-        desc: "Push the blog source to remote repository"
-        cmds:
-            - git push origin master
-        silent: true
-
-
-    fp:
-        desc: "Publish the blog to remote website"
-        dir: _site
-        cmds:
-            - task: commit
-              ignore_error: true
-            - git ftp push
-        silent: true
-            
-    build:
-        deps: [b]
-    serve:
-        deps: [s]
-    commit:
-        deps: [c]
-    push:
-        deps: [p]
-    publish:
-        deps: [fp]
+        b:
+                desc: build the Dr. Ringo\'s blog
+                dir: $GEEK/DrRingoBlog
+                cmds:
+                        - echo 'Dr. Ringo''s blog will now build'
+                        - bundle exec jekyll build
+                silent: true
+        s: 
+                desc: serve the Dr. Ringo\'s blog
+                dir: $GEEK/DrRingoBlog
+                cmds:
+                        - echo 'Dr. Ringo''s blog will now serve'
+                        - bundle exec jekyll serve 
+                silent: true
