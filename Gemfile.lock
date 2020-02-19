@@ -126,7 +126,7 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
-  bundler 
+  bundler (>= 1.15) 
   html-proofer
   jekyll-admin
   jekyll-paginate
