@@ -4,7 +4,7 @@ author: drbinhthanh
 layout: post
 ---
 
-![Ong Nobi](assets/img/ong-bo-chuan-muc.jpg)
+![Ong Nobi](/assets/img/ong-bo-chuan-muc.jpg)
 
 Ông Nobi là bố của Nobita, nhà nghèo, bố mẹ không có gì để lại cho con. Ông vẽ rất đẹp, có nhà giàu khi ấy muốn tài trợ ông ra nước ngoài học hỏi, nhưng họ cũng gài cái điều kiện, là hốt xác giùm đứa con gái chảnh chọe chưng diện của họ với, lỡ một mai họ mất rồi, còn có thằng có chút tài lẻ gánh nợ.
 
