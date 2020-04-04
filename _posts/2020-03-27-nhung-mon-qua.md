@@ -4,7 +4,7 @@ author: drbinhthanh
 layout: post
 ---
 
-[![](http://img.youtube.com/vi/8_9Ook2BcSw/0.jpg)](http://www.youtube.com/watch?v=8_9Ook2BcSw "Tango Obvilation")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_9Ook2BcSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Tôi thường sử dụng keyword cho các specified search engine của mình, ví dụ như "y" cho youtube, tôi chỉ cần đánh "y tango" là sẽ ra các video trên youtube về tango. Nhanh gọn và pro
 
