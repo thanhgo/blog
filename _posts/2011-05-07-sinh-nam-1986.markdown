@@ -1,7 +1,7 @@
 ---
 title: Sinh năm 1986
 date: 2011-05-07 04:32:59 Z
-published: false
+published: true
 categories:
 - Suy nghĩ
 author: drbinhthanh
