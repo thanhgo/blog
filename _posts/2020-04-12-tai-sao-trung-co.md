@@ -1,5 +1,5 @@
 ---
-title:Tại sao Trung Cổ
+title: Tại sao Trung Cổ
 author: drbinhthanh
 layout: post
 ---
