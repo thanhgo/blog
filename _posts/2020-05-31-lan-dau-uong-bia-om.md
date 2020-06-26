@@ -1,6 +1,7 @@
 ---
 title: Lần đầu uống bia ôm
 author: drbinhthanh
+layout: post
 date: 2020-05-31
 ---
 
