@@ -2,7 +2,7 @@
 title: Farewell Helen 03
 author: drbinhthanh
 layout: post
-date: '2019-10-03 22:36:21'
+date: '2019-10-06 22:36:21'
 ---
 
 Năm đó tôi 30, cô ấy 21. Tôi biết cô ấy thích tôi, và khá chắc chắn rằng tôi thích cô ấy bởi vì theo lời Helen nói, tôi nhìn cô ấy với ánh mắt như muốn nuốt trọn. Tâm lý học phân chia cứ mỗi 5 năm sẽ tạo ra một khoảng cách thế hệ. Như vậy, tôi và Helen cách nhau 2 thế hệ, vị chi là 2 triệu năm ánh sáng. Thích nhau không là chưa đủ, làm thế nào để tôi bắt đầu một mối quan hệ.
