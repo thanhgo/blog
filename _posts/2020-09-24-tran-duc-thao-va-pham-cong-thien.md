@@ -5,7 +5,7 @@ layout: post
 date: '2020-09-24 10:34:15'
 ---
 
-![](/assets/img/tranducthao.jpeg)
+![](/assets/img/tranducthao.jpg)
 
 Nếu các bạn đọc hồi kí của các tướng lĩnh miền Bắc, các bạn sẽ thấy được họ mô tả cuộc đời mình ra sao, cách họ bào chữa cho việc phải đưa ra những quyết định khó khăn như thế nào. Họ sẽ nói rằng tình huống đó phải như vậy, theo phong trào cộng sản, chúng tôi phải làm vậy. Tuyệt nhiên họ không nói theo luận đề này từ triết học Marx-Lenin, tôi đưa ra quyết định, hay chí ít là theo tiếng gọi của đạo đức, lương tâm. Không một dòng nào.
 
