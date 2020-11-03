@@ -1,0 +1,22 @@
+---
+title: Tại sao phải trọng nam khinh nữ?
+author: drbinhthanh
+layout: post
+date: '2020-10-04 13:46:49'
+---
+
+Theo GS. Jordan Peterson, có một lý do để rất nhiều thế hệ cha mẹ xưa kia trọng nam khinh nữ. Đó là một hành động lý trí để tối đa hóa số lượng con cháu mà họ có thể di truyền lại sau này. Rõ ràng, một phụ nữ chỉ có thể sanh hết cỡ từ 10 đến 30 đứa con trong độ tuổi sinh sản của cô ta. Nhưng một người đàn ông thành công có thể có năm thê bảy thiếp, thậm chí một vị tướng như Thành Cát Tư Hãn có thể có hàng triệu hậu duệ trên con đường chinh chiến của mình.
+
+Theo tôi thì lý do có thể còn đơn giản hơn thế, lý giải của Peterson không giải thích được vì sao những gia đình bần cố nông, ít có hi vọng con cái mình sẽ thành công, cũng vẫn có hành vi trọng nam khinh nữ trên. Đó cũng là một chiến lược tối đa hóa số lượng con cháu mà mình sẽ để lại, nó đã phổ biến đến nỗi, thực hiện nó gần như là một mệnh lệnh cuộc sống. Như đã thấy từ thực tế cuộc sống, một bé gái thường sẽ trưởng thành sớm hơn và có thể bước vào cuộc sống gia đình trưởng thành với chi phí rất thấp hoặc gần như bằng không. Cô ta một khi về nhà chồng thường sẽ bắt đầu sinh con và có một cuộc đời ổn định. Nhưng đối với bé trai thì không như vậy, quá trình trưởng thành từ bé trai lên đàn ông cần rất nhiều khổ luyện tu tập, cũng như để người đàn ông đó bắt đầu một sự nghiệp, ít nhất anh ta phải cần có một số vốn ban đầu và chỉ dẫn từ những thế hệ đi trước. Có cô gái nào sẽ chấp nhận ở chung với một anh chàng thậm chí không biết mình muốn gì trong đời. Giữa cái thời mà vua chúa nhốt cả ngàn phụ nữ trong lãnh cung, các nhà giàu có thì năm thê bảy thiếp, còn bạn thì không có nhiều tài sản để lại cho con cái, các gia đình từ trung lưu trở xuống đều phải thực hiện chiến lược dồn tài sản và sự quan tâm đến những đứa con trai vốn trưởng thành chậm và cần nhiều nguồn lực hơn. Để tất cả chúng đều có thể có một cuộc sống trưởng thành ổn định và bạn hoàn thành nhiệm vụ để lại gen di truyền của mình nhiều nhất có thể.
+
+Chiến lược này không công bằng, nhưng nó hiệu quả. Mà cuộc đời vốn dĩ có bao giờ công bằng đâu, đừng hỏi!
+
+---
+
+Đi đến thời hiện đại, khoảng 100 năm đến 50 năm trở lại đây, khi con người phát hiện ra sức mạnh công nghiệp. Các nghiệp đoàn cần nhiều lao động hơn trong các công ty, xí nghiệp. Người ta đã ra sức tuyên truyền bình đẳng giới, cộng với sự nổi lên của truyền thông cánh tả, tất cả nhằm lôi kéo phụ nữ rời vị trí thiên định của mình là ở trung tâm của gia đình để vào làm việc tại các công ty và xí nghiệp của họ. Kết quả là, tài sản quý nhất của một người phụ nữ là thời gian tuổi trẻ của họ, vốn để dành cho những người họ thương yêu nhất, lại đang bị bán rẻ cho các nghiệp đoàn trong những giờ làm việc dài vô tận và vô hồn. Các bạn hãy tự hỏi, liệu một người phụ nữ thích ra ngoài khu rừng kia săn con hổ răng kiếm hơn hay thích ngồi ở nhà, chăm sóc lũ trẻ, tám chuyện nói xấu lẫn nhau hơn?
+
+Chiến lược truyền thông đó thành công trong khoảng 100 năm trở lại đây, một phần bởi vì thu nhập các hộ gia đình gia tăng đáng kể, ngày càng nhiều người thoát nghèo, tầng lớp trung lưu ngày càng mở rộng. Người ta đủ điều kiện để lo cho tất cả con cái, và cho mỗi đứa một ít để chúng bước tiếp con đường đời sau khi họ mất đi.
+
+Nhưng khoảng thời gian mật ngọt của thời đại bình minh công nghiệp đã không kéo dài lâu, khoảng 20 năm trở lại đây, gần như không có đột phá khoa học kĩ thuật nào thêm nữa, chỉ còn một vài nhà công nghiệp lớn còn tồn tại và nhiều người đã bị đẩy ra khỏi lực lượng lao động ở nhiều mức độ khác nhau, toàn thời gian hay bán thời gian. Kết quả là khoảng cách giàu nghèo gia tăng, tầng lớp trung lưu ngày càng thu hẹp, ngày càng nhiều người bị đẩy vào cảnh bần cùng hóa. Tôi cho rằng, chỉ trong vòng 20 năm nữa thôi, chiến lược trọng nam khinh nữ kia sẽ quay trở lại. Nhắc nhở chúng ta rằng, nó không phải là một hủ tục như truyền thông cánh tả vẫn bêu rếu, mà đó là một chiến lược sống còn.
+
+Bạn không tin, bạn vẫn sẽ chia đều tài sản cho tất cả các con? Rồi bạn sẽ thấy điều mà tôi đã thấy ở nhiều gia đình: tất cả các đứa con gái đều đi lấy chồng, còn tất cả những đứa con trai chẳng thể lấy được vợ. Rồi khi những đứa con trai lớn xác đó qua tuổi 30 – 40, chúng sẽ bắt đầu các hành vi tự hủy hoại bản thân, như mọi thứ tệ nạn mà con người có thể tưởng tượng.
